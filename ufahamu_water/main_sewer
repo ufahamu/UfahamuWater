@@ -1,0 +1,40 @@
+#mainsewer {
+   marker-fill:#006BB4;
+   marker-line-color:white;
+   marker-line-width:3;
+   marker-opacity:1;
+   marker-line-opacity:1;
+   marker-placement:point;
+   marker-type:ellipse;
+   marker-allow-overlap:true;
+}
+#mainsewer [no_of_households_with_main_sewer<=469830] {
+   marker-width:13
+}
+#mainsewer [no_of_households_with_main_sewer<=16411] {
+   marker-width:12
+}
+#mainsewer [no_of_households_with_main_sewer<=9633] {
+   marker-width:11
+}
+#mainsewer [no_of_households_with_main_sewer<=3234] {
+   marker-width:10
+}
+#mainsewer [no_of_households_with_main_sewer<=1936] {
+   marker-width:9
+}
+#mainsewer [no_of_households_with_main_sewer<=1121] {
+   marker-width:8
+}
+#mainsewer [no_of_households_with_main_sewer<=614] {
+   marker-width:7
+}
+#mainsewer [no_of_households_with_main_sewer<=396] {
+   marker-width:6
+}
+#mainsewer [no_of_households_with_main_sewer<=192] {
+   marker-width:5
+}
+#mainsewer [no_of_households_with_main_sewer<=94] {
+   marker-width:4
+}

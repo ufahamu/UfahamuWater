@@ -1,0 +1,40 @@
+#householdsewer {
+   marker-fill:#99CC00;
+   marker-line-color:white;
+   marker-line-width:3;
+   marker-opacity:0.8;
+   marker-line-opacity:1;
+   marker-placement:point;
+   marker-type:ellipse;
+   marker-allow-overlap:true;
+}
+#householdsewer [MainSewer<=469830] {
+   marker-width:13
+}
+#householdsewer [MainSewer<=16411] {
+   marker-width:12
+}
+#householdsewer [MainSewer<=9633] {
+   marker-width:11
+}
+#householdsewer [MainSewer<=3234] {
+   marker-width:10
+}
+#householdsewer [MainSewer<=1936] {
+   marker-width:9
+}
+#householdsewer [MainSewer<=1121] {
+   marker-width:8
+}
+#householdsewer [MainSewer<=614] {
+   marker-width:7
+}
+#householdsewer [MainSewer<=396] {
+   marker-width:6
+}
+#householdsewer [MainSewer<=192] {
+   marker-width:5
+}
+#householdsewer [MainSewer<=94] {
+   marker-width:4
+}

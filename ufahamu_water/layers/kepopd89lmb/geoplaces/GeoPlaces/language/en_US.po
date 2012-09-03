@@ -1,0 +1,6574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: HelpDesk <saqib@templatic.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:5
+#@ templatic
+msgid "404! We couldn't find the page!"
+msgstr ""
+
+#: 404.php:22
+#: language.php:124
+#@ templatic
+msgid "Pages"
+msgstr ""
+
+#: 404.php:30
+#: language.php:125
+#@ templatic
+msgid "Posts"
+msgstr ""
+
+#: 404.php:38
+#: tpl_sitemap.php:50
+#@ templatic
+msgid "0 comment"
+msgstr ""
+
+#: 404.php:38
+#: tpl_sitemap.php:50
+#@ templatic
+msgid "% comments"
+msgstr ""
+
+#: 404.php:46
+#: language.php:127
+#: language.php:140
+#: monetize/custom_post_type/custom_post_type.php:102
+#: monetize/custom_post_type/custom_post_type.php:279
+#: monetize/manage_settings/admin_manage_city.php:177
+#@ templatic
+msgid "Categories"
+msgstr ""
+
+#: 404.php:53
+#: language.php:126
+#: language.php:139
+#@ templatic
+msgid "Archives"
+msgstr ""
+
+#: admin/tab_header.php:9
+#@ templatic
+msgid "Update Framework"
+msgstr ""
+
+#: admin/breadcrumbs/yoast-breadcrumbs.php:61
+#: monetize/manage_settings/admin_paymethods_add.php:59
+#@ templatic
+msgid "Settings"
+msgstr ""
+
+#: admin/breadcrumbs/yoast-breadcrumbs.php:69
+#@ templatic
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#: admin/breadcrumbs/yoast-posts.php:23
+#@ templatic
+msgid "Yoast - Tweaking Websites"
+msgstr ""
+
+#: admin/functions/custom_functions.php:391
+#: library/functions/custom_functions.php:539
+#: taxonomy-eventcategory.php:261
+#: taxonomy-placecategory.php:188
+#@ templatic
+msgid "read more"
+msgstr ""
+
+#: admin/functions/custom_functions.php:510
+#@ templatic
+msgid "Search Result "
+msgstr ""
+
+#: admin/functions/custom_functions.php:525
+#@ templatic
+msgid "Author Archives"
+msgstr ""
+
+#: admin/functions/custom_functions.php:691
+#@ templatic
+msgid "Tweet"
+msgstr ""
+
+#: admin/seo_settings.php:26
+#: admin/seo_settings.php:27
+#@ templatic
+msgid "SEO Settings"
+msgstr ""
+
+#: admin/seo_settings.php:34
+#@ templatic
+msgid "Page Title"
+msgstr ""
+
+#: admin/seo_settings.php:37
+#@ templatic
+msgid "Page Description"
+msgstr ""
+
+#: admin/seo_settings.php:40
+#@ templatic
+msgid "Keywords <br />(comma separated)"
+msgstr ""
+
+#: admin/seo_settings.php:43
+#: monetize/manage_settings/function_manage_settings.php:43
+#: monetize/registration/lang_reg.php:8
+#@ templatic
+msgid "Update"
+msgstr ""
+
+#: admin/theme_options/options.php:9
+#: admin/tpl/header.php:5
+#@ templatic
+msgid "Theme Guide"
+msgstr ""
+
+#: admin/theme_options/options.php:11
+#: admin/tpl/header.php:6
+#@ templatic
+msgid "Support Forum"
+msgstr ""
+
+#: admin/theme_options/options.php:19
+#: admin/theme_options/options.php:72
+#: monetize/manage_settings/admin_add_city.php:250
+#@ templatic
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/theme_options/options.php:71
+#@ templatic
+msgid "Reset Options"
+msgstr ""
+
+#: language.php:411
+#: library/functions/widgets/ads.php:35
+#: library/functions/widgets/flickr.php:74
+#: library/functions/widgets/google_map.php:123
+#: library/functions/widgets/my_bio.php:59
+#: library/functions/widgets/popularposts.php:56
+#: library/functions/widgets/social_media.php:76
+#: library/functions/widgets/twitter.php:55
+#: library/functions/widgets.php:2112
+#: monetize/manage_settings/admin_custom_usermeta_list.php:43
+#: monetize/manage_settings/admin_custom_usermeta_list.php:74
+#: monetize/manage_settings/admin_notification.php:84
+#: monetize/manage_settings/admin_transaction_report.php:106
+#: monetize/manage_settings/admin_transaction_report.php:127
+#: monetize/manage_settings/ajax_list_price_package.php:4
+#@ templatic
+msgid "Title"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:96
+#: library/functions/widgets.php:877
+#: library/functions/widgets.php:1163
+#: library/functions/widgets.php:1387
+#: library/functions/widgets.php:1481
+#@ templatic
+msgid "Post Type:"
+msgstr ""
+
+#: library/functions/widgets/featured_video.php:88
+#: library/functions/widgets/latest_posts.php:91
+#: library/functions/widgets.php:872
+#: library/functions/widgets.php:1158
+#: library/functions/widgets.php:1298
+#: library/functions/widgets.php:1495
+#: library/functions/widgets.php:1604
+#: library/functions/widgets.php:2062
+#@ templatic
+msgid "Number of posts:"
+msgstr ""
+
+#: library/functions/custom_filters.php:108
+#: library/functions/widgets.php:732
+#: library/functions/widgets.php:778
+#: library/functions/widgets.php:835
+#: library/functions/widgets.php:984
+#: library/functions/widgets.php:1044
+#: library/functions/widgets.php:1103
+#: library/functions/widgets.php:1256
+#@ templatic
+msgid "Read More"
+msgstr ""
+
+#: language.php:115
+#: language.php:239
+#: library/functions/widgets/contact/contact.php:213
+#: monetize/manage_settings/admin_transaction_report.php:107
+#@ templatic
+msgid "Name"
+msgstr ""
+
+#: language.php:116
+#: language.php:243
+#: language.php:290
+#: library/functions/widgets/contact/contact.php:218
+#: library/functions/widgets/login/login.php:447
+#: library/functions/widgets/login/login.php:486
+#: monetize/manage_settings/admin_transaction_report.php:108
+#@ templatic
+msgid "Email"
+msgstr ""
+
+#: language.php:117
+#: language.php:152
+#: library/functions/widgets/contact/contact.php:223
+#: monetize/email_notification/popup_frms.php:23
+#: monetize/manage_settings/notification_options.php:38
+#@ templatic
+msgid "Subject"
+msgstr ""
+
+#: language.php:118
+#: language.php:153
+#: library/functions/widgets/contact/contact.php:228
+#@ templatic
+msgid "Message"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:232
+#: monetize/email_notification/popup_frms.php:29
+#@ templatic
+msgid "Send"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:252
+#: library/functions/widgets/login/login.php:511
+#@ templatic
+msgid "Widget Title"
+msgstr ""
+
+#: library/functions/widgets/featured_video.php:83
+#: library/functions/widgets/latest_posts.php:110
+#: library/functions/widgets.php:891
+#: library/functions/widgets.php:1177
+#: library/functions/widgets.php:1490
+#: library/functions/widgets.php:1599
+#@ templatic
+msgid "Categories (<code>IDs</code> separated by commas):"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:66
+#@ templatic
+msgid "Flickr"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:74
+#@ templatic
+msgid "eg. : Flickr"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:79
+#@ templatic
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>)"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:84
+#@ templatic
+msgid "Number of photos"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:89
+#@ templatic
+msgid "Photo Width"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:94
+#@ templatic
+msgid "Photo Height"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:84
+#@ templatic
+msgid "View Large Map"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:59
+#: single-blog.php:86
+#: single-event.php:52
+#: single-place.php:53
+#: tpl_archives.php:64
+#@ templatic
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:14
+#: library/functions/widgets/latest_posts.php:59
+#: single-blog.php:86
+#: single-event.php:52
+#: single-place.php:53
+#: tpl_archives.php:64
+#@ templatic
+msgid "1 Comment"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:59
+#: single-blog.php:86
+#: single-event.php:52
+#: single-place.php:53
+#: tpl_archives.php:64
+#@ templatic
+msgid "% Comments"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:59
+#: single-blog.php:86
+#: tpl_archives.php:64
+#@ templatic
+msgid "Comments Closed"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:61
+#@ templatic
+msgid "more..."
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:115
+#: library/functions/widgets/featured_video.php:78
+#: library/functions/widgets/latest_posts.php:88
+#: library/functions/widgets/testimonials.php:148
+#: library/functions/widgets.php:546
+#: library/functions/widgets.php:868
+#: library/functions/widgets.php:1153
+#: library/functions/widgets.php:1292
+#: library/functions/widgets.php:1476
+#: library/functions/widgets.php:1594
+#: library/functions/widgets.php:2052
+#@ templatic
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:11
+#@ templatic
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:13
+#@ templatic
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:16
+#: monetize/registration/registration.php:113
+#@ templatic
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:21
+#: monetize/event/single_page_checkout_insertuser.php:35
+#: monetize/general/single_page_checkout_insertuser.php:36
+#: monetize/place/single_page_checkout_insertuser.php:37
+#: monetize/registration/registration.php:117
+#@ templatic
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:23
+#: monetize/event/single_page_checkout_insertuser.php:37
+#: monetize/general/single_page_checkout_insertuser.php:38
+#: monetize/place/single_page_checkout_insertuser.php:39
+#: monetize/registration/registration.php:119
+#@ templatic
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:26
+#: monetize/registration/registration.php:122
+#@ templatic
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:72
+#: monetize/general/single_page_checkout_insertuser.php:72
+#: monetize/place/single_page_checkout_insertuser.php:73
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: monetize/basic_settings.php:105
+#: monetize/event/single_page_checkout_insertuser.php:106
+#: monetize/event/single_page_checkout_insertuser.php:118
+#: monetize/general/single_page_checkout_insertuser.php:106
+#: monetize/general/single_page_checkout_insertuser.php:118
+#: monetize/place/single_page_checkout_insertuser.php:107
+#: monetize/place/single_page_checkout_insertuser.php:119
+#: monetize/registration/registration.php:203
+#@ templatic
+msgid "Registration Email"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:57
+#: monetize/registration/registration.php:35
+#@ templatic
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:62
+#: monetize/registration/registration.php:40
+#@ templatic
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:74
+#: monetize/registration/registration.php:52
+#@ templatic
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:91
+#: monetize/registration/registration.php:68
+#@ templatic
+msgid "Invalid key"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:164
+#: monetize/registration/registration.php:437
+#@ templatic
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:178
+#@ templatic
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:189
+#@ templatic
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: library/functions/widgets/login/login.php:200
+#@ templatic
+msgid "Check your e-mail for the new password."
+msgstr ""
+
+#: language.php:336
+msgid "My Account"
+msgstr ""
+
+#: language.php:13
+#: language.php:331
+#: language.php:337
+#: library/functions/widgets/login/login.php:248
+#@ templatic
+msgid "Dashboard"
+msgstr ""
+
+#: monetize/registration/registration_language.php:36
+#@ templatic
+msgid "Edit Profile"
+msgstr ""
+
+#: language.php:333
+#: monetize/registration/lang_reg.php:5
+#@ templatic
+msgid "Change Password"
+msgstr ""
+
+#: language.php:342
+msgid "Logout"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:372
+#: library/functions/widgets/login/login.php:440
+#: monetize/manage_settings/notification_options.php:29
+#: monetize/registration/registration_language.php:5
+#@ templatic
+msgid "Username"
+msgstr ""
+
+#: language.php:201
+#: library/functions/widgets/login/login.php:373
+#: monetize/manage_settings/notification_options.php:29
+#: monetize/registration/lang_reg.php:13
+#: monetize/registration/registration_language.php:6
+#: monetize/registration/registration_language.php:37
+#@ templatic
+msgid "Password"
+msgstr ""
+
+#: language.php:328
+#: language.php:343
+#: library/functions/widgets/login/login.php:379
+#: library/functions/widgets.php:1668
+#: monetize/registration/registration_language.php:16
+#: monetize/registration/registration_language.php:18
+#: monetize/registration/registration_language.php:19
+#@ templatic
+msgid "Sign In"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:384
+#@ templatic
+msgid "New User? Register Now"
+msgstr ""
+
+#: language.php:327
+#: library/functions/widgets/login/login.php:385
+#: monetize/registration/lang_reg.php:10
+#: monetize/registration/registration_language.php:3
+#@ templatic
+msgid "Forgot Password?"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:434
+#@ templatic
+msgid "New User Register Here"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:452
+#: library/functions/widgets.php:1667
+#: monetize/registration/registration_language.php:17
+#@ templatic
+msgid "Register"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:482
+#@ templatic
+msgid "Forgot Password"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:490
+#: monetize/registration/lang_reg.php:15
+#: monetize/registration/registration_language.php:8
+#@ templatic
+msgid "Get New Password"
+msgstr ""
+
+#: library/functions/widgets/popularposts.php:58
+#@ templatic
+msgid "Number of Posts"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:48
+#: library/functions/widgets.php:1385
+#@ templatic
+msgid "Widget Title:"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:26
+#@ templatic
+msgid "Enter Email Address"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:49
+#@ templatic
+msgid "Feedburner ID (ex :- templatic):"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:149
+#@ templatic
+msgid "Show Fade In Time Set:"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:150
+#@ templatic
+msgid "Show Fade Out Time Set:"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:152
+#@ templatic
+msgid "Quote text 1"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:153
+#@ templatic
+msgid "Author name 1"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:155
+#@ templatic
+msgid "Quote text 2"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:156
+#@ templatic
+msgid "Author name 2"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:158
+#@ templatic
+msgid "Quote text 3"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:159
+#@ templatic
+msgid "Author name 3"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:161
+#@ templatic
+msgid "Quote text 4"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:162
+#@ templatic
+msgid "Author name 4"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:164
+#@ templatic
+msgid "Quote text 5"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:165
+#@ templatic
+msgid "Author name 5"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:47
+#@ templatic
+msgid "Live Tweet"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:41
+#@ templatic
+msgid "Sidebar 1"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:43
+#@ templatic
+msgid "Sidebar 2"
+msgstr ""
+
+#: archive.php:11
+#, php-format
+#@ templatic
+msgid "%s"
+msgstr ""
+
+#: language.php:31
+#, php-format
+#@ templatic
+msgid "Posts tagged &quot;%s&quot;"
+msgstr ""
+
+#: language.php:32
+#, php-format
+#@ templatic
+msgid "Daily archive %s"
+msgstr ""
+
+#: language.php:33
+#, php-format
+#@ templatic
+msgid "Monthly archive %s"
+msgstr ""
+
+#: language.php:34
+#, php-format
+#@ templatic
+msgid "Yearly archive %s"
+msgstr ""
+
+#: language.php:80
+#@ templatic
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: language.php:81
+#@ templatic
+msgid "What do you think?"
+msgstr ""
+
+#: language.php:85
+#@ templatic
+msgid "Logged in as"
+msgstr ""
+
+#: language.php:86
+#@ templatic
+msgid "Log out &raquo;"
+msgstr ""
+
+#: language.php:92
+#@ templatic
+msgid "required"
+msgstr ""
+
+#: language.php:89
+#: language.php:245
+#: language.php:291
+#: library/includes/sidebar_event_detail.php:59
+#: library/includes/sidebar_place_detail.php:62
+#: monetize/event/preview_event.php:278
+#: monetize/place/preview.php:310
+#@ templatic
+msgid "Website"
+msgstr ""
+
+#: language.php:91
+#: language.php:154
+#: language.php:202
+#: monetize/email_notification/popup_owner_frm.php:27
+#: monetize/manage_settings/admin_bulk_upload.php:481
+#: monetize/manage_settings/admin_bulk_upload.php:514
+#@ templatic
+msgid "Submit"
+msgstr ""
+
+#: language.php:8
+#@ templatic
+msgid "Latest entries"
+msgstr ""
+
+#: library/functions/custom_functions.php:105
+#@ templatic
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: language.php:340
+msgid "Welcome "
+msgstr ""
+
+#: language.php:190
+#: library/functions/widgets/login/login.php:260
+#: library/functions/widgets.php:1672
+#@ templatic
+msgid "Add place"
+msgstr ""
+
+#: single-blog.php:95
+#@ templatic
+msgid "View "
+msgstr ""
+
+#: single-blog.php:95
+#@ templatic
+msgid "More "
+msgstr ""
+
+#: language.php:96
+#@ templatic
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: library/functions/meta_boxes.php:261
+#: library/functions/meta_boxes.php:324
+#: monetize/event/paynow_event.php:349
+#: monetize/manage_settings/admin_manage_currency.php:76
+#: monetize/manage_settings/admin_transaction_report.php:105
+#: monetize/manage_settings/ajax_list_city.php:4
+#: monetize/place/paynow.php:362
+#@ templatic
+msgid "ID"
+msgstr ""
+
+#: monetize/event/paynow_event.php:350
+#: monetize/place/paynow.php:363
+msgid "View more detail from"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:11
+#: monetize/custom_post_type/custom_post_type_lang.php:57
+#: monetize/manage_settings/admin_category_icons.php:176
+#: monetize/manage_settings/ajax_custom_taxonomy.php:45
+#: monetize/registration/registration_language.php:39
+#@ templatic
+msgid "Edit"
+msgstr ""
+
+#: library/functions/widgets.php:1839
+#@ templatic
+msgid "Delete"
+msgstr ""
+
+#: language.php:58
+#: language.php:256
+#: library/functions/meta_boxes.php:263
+#: library/functions/meta_boxes.php:326
+#: monetize/custom_post_type/custom_post_type.php:101
+#: monetize/custom_post_type/custom_post_type.php:276
+#@ templatic
+msgid "Address"
+msgstr ""
+
+#: language.php:257
+msgid "Address Latitude"
+msgstr ""
+
+#: language.php:258
+msgid "Address Longitude"
+msgstr ""
+
+#: language.php:204
+msgid "Select Images"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:20
+#@ templatic
+msgid "Payment received successfully"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:13
+#@ templatic
+msgid "Acknowledgment for your Payment"
+msgstr ""
+
+#: language.php:186
+#: monetize/registration/lang_reg.php:16
+#: monetize/registration/registration_language.php:9
+#@ templatic
+msgid "Indicates mandatory fields"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:262
+#@ templatic
+msgid "Add Event"
+msgstr ""
+
+#: language.php:200
+msgid "Login"
+msgstr ""
+
+#: language.php:206
+msgid "Event Description"
+msgstr ""
+
+#: language.php:207
+msgid "Special Offers"
+msgstr ""
+
+#: language.php:208
+msgid "Contact"
+msgstr ""
+
+#: language.php:209
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: language.php:210
+msgid "Enter coupon code here (optional)"
+msgstr ""
+
+#: language.php:211
+msgid "Captcha Verification"
+msgstr ""
+
+#: language.php:212
+msgid "Select Package Type"
+msgstr ""
+
+#: language.php:213
+#: monetize/manage_settings/admin_manage_coupon.php:65
+#@ templatic
+msgid "Coupon Code"
+msgstr ""
+
+#: language.php:215
+#, php-format
+msgid "%s : number of publish days are %s (<span id=\"%s\">%s %s</span>)"
+msgstr ""
+
+#: language.php:225
+msgid "Invalid Coupon Code"
+msgstr ""
+
+#: language.php:232
+msgid "Word Verification"
+msgstr ""
+
+#: language.php:236
+msgid "Select Type"
+msgstr ""
+
+#: language.php:240
+#: monetize/custom_post_type/custom_post_type.php:100
+#: monetize/custom_post_type/custom_post_type.php:275
+#: monetize/manage_settings/admin_manage_city.php:145
+#: monetize/manage_settings/ajax_list_city.php:5
+#@ templatic
+msgid "City"
+msgstr ""
+
+#: language.php:241
+#: monetize/manage_settings/admin_manage_city.php:147
+#: monetize/manage_settings/admin_manage_city.php:169
+#: monetize/manage_settings/ajax_list_city.php:7
+#@ templatic
+msgid "State"
+msgstr ""
+
+#: language.php:242
+msgid "Mobile Number"
+msgstr ""
+
+#: author.php:51
+#: language.php:56
+#: language.php:246
+#@ templatic
+msgid "Twitter"
+msgstr ""
+
+#: author.php:54
+#: language.php:57
+#: language.php:247
+#@ templatic
+msgid "Facebook"
+msgstr ""
+
+#: language.php:250
+msgid "Upload Photo"
+msgstr ""
+
+#: language.php:251
+msgid "Short Biodata Information"
+msgstr ""
+
+#: language.php:252
+msgid "Note : PNG, GIF of JPEG only, for better image quality upload image size 150x150"
+msgstr ""
+
+#: language.php:253
+msgid "Note : Basic HTML tags are allowed"
+msgstr ""
+
+#: language.php:254
+msgid "Note: List out any special offers (optional)"
+msgstr ""
+
+#: language.php:264
+msgid "&laquo; Go Back and Edit"
+msgstr ""
+
+#: language.php:265
+msgid "Update Now"
+msgstr ""
+
+#: language.php:266
+msgid "Publish"
+msgstr ""
+
+#: language.php:267
+#: monetize/registration/profile.php:622
+#@ templatic
+msgid "Cancel"
+msgstr ""
+
+#: language.php:268
+msgid "Pay & Publish"
+msgstr ""
+
+#: language.php:270
+msgid "Publisher Information"
+msgstr ""
+
+#: language.php:293
+msgid "Yes, Delete Please!"
+msgstr ""
+
+#: monetize/registration/profile.php:460
+#: monetize/registration/registration_form.php:167
+#@ templatic
+msgid "Select Category"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:26
+#: monetize/general/single_page_checkout_insertuser.php:27
+#: monetize/place/single_page_checkout_insertuser.php:28
+#: monetize/registration/registration.php:108
+#@ templatic
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:28
+#: monetize/general/single_page_checkout_insertuser.php:29
+#: monetize/place/single_page_checkout_insertuser.php:30
+#: monetize/registration/registration.php:110
+#@ templatic
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:31
+#: monetize/general/single_page_checkout_insertuser.php:32
+#: monetize/place/single_page_checkout_insertuser.php:33
+msgid "<strong>ERROR</strong>:  This username is already registered, please choose another one."
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:40
+#: monetize/general/single_page_checkout_insertuser.php:41
+#: monetize/place/single_page_checkout_insertuser.php:42
+msgid "<strong>ERROR</strong>:  This email is already registered, please choose another one."
+msgstr ""
+
+#: monetize/event/submit_event.php:815
+#: monetize/place/submit_place.php:797
+msgid "Note: You will be able to see a preview in the next page"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:442
+#@ templatic
+msgid "Please upload CSV file only."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:476
+#: monetize/manage_settings/admin_bulk_upload.php:509
+#@ templatic
+msgid "Select CSV file to upload"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:6
+#@ templatic
+msgid "Please select csv file to upload"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:90
+#@ templatic
+msgid "Coupon code already exists, Please use different one."
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:109
+#@ templatic
+msgid "Percentage"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:111
+#: monetize/manage_settings/admin_transaction_report.php:137
+#@ templatic
+msgid "Amount"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:136
+#@ templatic
+msgid "Percentage should be less than or equal to 100"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:52
+#@ templatic
+msgid "Coupon updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:59
+#@ templatic
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: library/functions/widgets.php:1781
+#: library/functions/widgets.php:1789
+#: library/functions/widgets.php:1797
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:155
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:169
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:183
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:196
+#: monetize/manage_settings/admin_custom_usermeta_list.php:60
+#: monetize/manage_settings/admin_custom_usermeta_list.php:83
+#: monetize/manage_settings/admin_custom_usermeta_list.php:87
+#: monetize/manage_settings/admin_custom_usermeta_list.php:88
+#: monetize/manage_settings/admin_manage_coupon.php:34
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:303
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:317
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:344
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:357
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:369
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:381
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:51
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:78
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:80
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:85
+#: monetize/manage_settings/admin_paymethods_list.php:64
+#: monetize/manage_settings/admin_price_add.php:216
+#: monetize/manage_settings/ajax_list_price_package.php:29
+#@ templatic
+msgid "Yes"
+msgstr ""
+
+#: library/functions/widgets.php:1782
+#: library/functions/widgets.php:1790
+#: library/functions/widgets.php:1798
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:156
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:170
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:184
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:197
+#: monetize/manage_settings/admin_custom_usermeta_list.php:60
+#: monetize/manage_settings/admin_custom_usermeta_list.php:83
+#: monetize/manage_settings/admin_custom_usermeta_list.php:87
+#: monetize/manage_settings/admin_custom_usermeta_list.php:88
+#: monetize/manage_settings/admin_manage_coupon.php:35
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:304
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:318
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:345
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:358
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:370
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:382
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:51
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:78
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:80
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:85
+#: monetize/manage_settings/admin_paymethods_list.php:64
+#: monetize/manage_settings/admin_price_add.php:217
+#: monetize/manage_settings/ajax_list_price_package.php:29
+#@ templatic
+msgid "No"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:42
+#@ templatic
+msgid "Manage Coupon"
+msgstr ""
+
+#: language.php:104
+#: language.php:255
+#: monetize/custom_post_type/custom_post_type_lang.php:21
+#: monetize/custom_post_type/custom_post_type_lang.php:67
+#: monetize/manage_settings/admin_category_icons.php:150
+#: monetize/manage_settings/ajax_custom_taxonomy.php:14
+#@ templatic
+msgid "Category"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:161
+#: monetize/manage_settings/ajax_list_city.php:22
+#@ templatic
+msgid "Edit City"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_city.php:28
+#@ templatic
+msgid "City Name"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:241
+#: monetize/manage_settings/admin_add_city.php:246
+#@ templatic
+msgid "Set as default City"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:50
+#@ templatic
+msgid "City updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:58
+#@ templatic
+msgid "City deleted successfully."
+msgstr ""
+
+#: monetize/general/multi_city_functions.php:164
+msgid "City ID"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:148
+#: monetize/manage_settings/admin_manage_city.php:176
+#: monetize/manage_settings/ajax_list_city.php:8
+#: monetize/manage_settings/ajax_list_city.php:37
+#@ templatic
+msgid "Scaling Factor"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_city.php:38
+#@ templatic
+msgid "Zooming Home?"
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:153
+#: monetize/manage_settings/admin_custom_usermeta_list.php:48
+#: monetize/manage_settings/admin_manage_city.php:149
+#: monetize/manage_settings/admin_manage_coupon.php:68
+#: monetize/manage_settings/admin_manage_currency.php:80
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:40
+#: monetize/manage_settings/admin_paymethods_list.php:42
+#: monetize/manage_settings/admin_transaction_report.php:110
+#: monetize/manage_settings/ajax_custom_taxonomy.php:17
+#: monetize/manage_settings/ajax_list_city.php:9
+#: monetize/manage_settings/ajax_list_price_package.php:9
+#@ templatic
+msgid "Action"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:82
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:196
+#@ templatic
+msgid "Text"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:83
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:203
+#@ templatic
+msgid "Text Editor"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:84
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:197
+#@ templatic
+msgid "Text Heading"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:85
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:198
+#@ templatic
+msgid "Checkbox"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:86
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:199
+#@ templatic
+msgid "Date Picker"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:87
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:200
+#@ templatic
+msgid "Multi Checkbox"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:88
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:201
+#@ templatic
+msgid "Radio"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:89
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:202
+#@ templatic
+msgid "Select"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:90
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:204
+#@ templatic
+msgid "Textarea"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:91
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:205
+#: monetize/manage_settings/manage_custom_usermeta.php:144
+#@ templatic
+msgid "Upload"
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:177
+#: monetize/manage_settings/admin_manage_coupon.php:36
+#: monetize/manage_settings/admin_manage_currency.php:43
+#: monetize/manage_settings/ajax_custom_taxonomy.php:46
+#@ templatic
+msgid "Save"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:26
+#@ templatic
+msgid "Information Deleted successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:44
+#: monetize/manage_settings/admin_custom_usermeta_list.php:79
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:38
+#@ templatic
+msgid "Type"
+msgstr ""
+
+#: library/functions/widgets.php:1836
+#: monetize/manage_settings/admin_custom_usermeta_list.php:64
+#: monetize/manage_settings/admin_manage_city.php:161
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:53
+#: monetize/manage_settings/ajax_list_city.php:22
+#@ templatic
+msgid "Detail"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:93
+#@ templatic
+msgid "Use at front end"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:93
+#@ templatic
+msgid "Heading"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:170
+#: monetize/manage_settings/manage_post_custom_fields.php:200
+#@ templatic
+msgid "Geo Address"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:172
+#@ templatic
+msgid "Please enter address. eg. : 230 Vine Street And locations throughout Old City, Philadelphia, PA 19106"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:177
+#@ templatic
+msgid "Geo Latitude"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:179
+#@ templatic
+msgid "Enter Geo Latitude. eg. : 38.8225909761771"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:184
+#@ templatic
+msgid "Geo Longitude"
+msgstr ""
+
+#: monetize/manage_settings/manage_custom_usermeta.php:186
+#@ templatic
+msgid "Enter Geo Longitude. eg. : 12.65625"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:50
+#@ templatic
+msgid "Email Type"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:51
+#@ templatic
+msgid "Email Subject"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:52
+#@ templatic
+msgid "Email Description"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:85
+#@ templatic
+msgid "Description"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:38
+#@ templatic
+msgid "Notification emails &amp; messages"
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:151
+#: monetize/manage_settings/ajax_custom_taxonomy.php:15
+#: monetize/manage_settings/ajax_list_price_package.php:5
+#@ templatic
+msgid "Price"
+msgstr ""
+
+#: library/functions/meta_boxes.php:267
+#: library/functions/meta_boxes.php:329
+#: monetize/manage_settings/admin_paymethods_add.php:82
+#: monetize/manage_settings/admin_price_add.php:198
+#: monetize/manage_settings/admin_price_add.php:249
+#: monetize/manage_settings/ajax_list_price_package.php:7
+#@ templatic
+msgid "Status"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:8
+#@ templatic
+msgid "Featured?"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:202
+#: monetize/manage_settings/admin_price_add.php:253
+#@ templatic
+msgid "Active"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:203
+#@ templatic
+msgid "Inactive"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:67
+#@ templatic
+msgid "Updated Succesfully"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:86
+#@ templatic
+msgid "Activate"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:87
+#@ templatic
+msgid "Deactivate"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:136
+#@ templatic
+msgid "Please enter Payment Method"
+msgstr ""
+
+#: monetize/db_table_creation.php:392
+#: monetize/db_table_creation.php:428
+#@ templatic
+msgid "Merchant Id"
+msgstr ""
+
+#: monetize/db_table_creation.php:395
+#@ templatic
+msgid "Example : myaccount@paypal.com"
+msgstr ""
+
+#: monetize/db_table_creation.php:398
+#@ templatic
+msgid "Cancel Url"
+msgstr ""
+
+#: monetize/db_table_creation.php:401
+#: monetize/db_table_creation.php:407
+#: monetize/db_table_creation.php:413
+#: monetize/db_table_creation.php:505
+#, php-format
+#@ templatic
+msgid "Example : %s"
+msgstr ""
+
+#: monetize/db_table_creation.php:404
+#@ templatic
+msgid "Return Url"
+msgstr ""
+
+#: monetize/db_table_creation.php:410
+#: monetize/db_table_creation.php:502
+#@ templatic
+msgid "Notify Url"
+msgstr ""
+
+#: monetize/db_table_creation.php:417
+#@ templatic
+msgid "Paypal"
+msgstr ""
+
+#: monetize/db_table_creation.php:431
+#: monetize/db_table_creation.php:456
+#@ templatic
+msgid "Example : 1234567890"
+msgstr ""
+
+#: monetize/db_table_creation.php:435
+#@ templatic
+msgid "Google Checkout"
+msgstr ""
+
+#: monetize/db_table_creation.php:447
+#@ templatic
+msgid "Login ID"
+msgstr ""
+
+#: monetize/db_table_creation.php:450
+#@ templatic
+msgid "Example : yourname@domain.com"
+msgstr ""
+
+#: monetize/db_table_creation.php:453
+#@ templatic
+msgid "Transaction Key"
+msgstr ""
+
+#: monetize/db_table_creation.php:460
+#@ templatic
+msgid "Authorize.net"
+msgstr ""
+
+#: monetize/db_table_creation.php:472
+#@ templatic
+msgid "Instant Id"
+msgstr ""
+
+#: monetize/db_table_creation.php:475
+#@ templatic
+msgid "Example : 123456"
+msgstr ""
+
+#: monetize/db_table_creation.php:478
+#@ templatic
+msgid "Account Id"
+msgstr ""
+
+#: monetize/db_table_creation.php:481
+#@ templatic
+msgid "Example : 12345"
+msgstr ""
+
+#: monetize/db_table_creation.php:485
+#@ templatic
+msgid "Worldpay"
+msgstr ""
+
+#: monetize/db_table_creation.php:496
+#@ templatic
+msgid "Vendor ID"
+msgstr ""
+
+#: monetize/db_table_creation.php:499
+#@ templatic
+msgid "Enter Vendor ID Example : 1303908"
+msgstr ""
+
+#: monetize/db_table_creation.php:509
+#@ templatic
+msgid "2CO (2Checkout)"
+msgstr ""
+
+#: monetize/db_table_creation.php:522
+#@ templatic
+msgid "Bank Information"
+msgstr ""
+
+#: monetize/db_table_creation.php:525
+#@ templatic
+msgid "Enter the bank name to which you want to transfer payment"
+msgstr ""
+
+#: monetize/db_table_creation.php:528
+#@ templatic
+msgid "Account ID"
+msgstr ""
+
+#: monetize/db_table_creation.php:531
+#@ templatic
+msgid "Enter your bank Account ID"
+msgstr ""
+
+#: monetize/db_table_creation.php:535
+#@ templatic
+msgid "Pre Bank Transfer"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:258
+#@ templatic
+msgid "Please select payment method on preview page."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:60
+#@ templatic
+msgid "Edit Custom User Meta"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:225
+#@ templatic
+msgid "Title : "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:192
+#@ templatic
+msgid "Show On Profile Page ? : "
+msgstr ""
+
+#: monetize/registration/login_form.php:75
+#: monetize/registration/registration.php:293
+#@ templatic
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: monetize/registration/lang_reg.php:11
+#: monetize/registration/lang_reg.php:19
+#: monetize/registration/registration_language.php:4
+#: monetize/registration/registration_language.php:12
+#@ templatic
+msgid "E-mail"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:14
+#: monetize/registration/registration_language.php:7
+#@ templatic
+msgid "Remember me on this computer"
+msgstr ""
+
+#: monetize/registration/registration_language.php:10
+#@ templatic
+msgid "Sign Up Now"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:18
+#: monetize/registration/registration_language.php:11
+#@ templatic
+msgid "Personal Information"
+msgstr ""
+
+#: monetize/registration/registration_language.php:13
+#@ templatic
+msgid "Full Name"
+msgstr ""
+
+#: monetize/registration/registration_language.php:14
+#@ templatic
+msgid "(Note: A password will be e-mailed to you for future reference.)"
+msgstr ""
+
+#: language.php:65
+#: monetize/registration/registration_language.php:15
+#@ templatic
+msgid "Register Now"
+msgstr ""
+
+#: monetize/registration/registration_language.php:20
+#@ templatic
+msgid "Invalid Username/Password."
+msgstr ""
+
+#: monetize/registration/registration_language.php:21
+#@ templatic
+msgid "Registration complete. Please check your e-mail for login details."
+msgstr ""
+
+#: monetize/registration/registration_language.php:22
+#@ templatic
+msgid "We just sent you a new password. Kindly check your e-mail now."
+msgstr ""
+
+#: monetize/registration/registration_language.php:23
+#@ templatic
+msgid "A confirmation link has been sent to you via email. Kindly check your e-mail now."
+msgstr ""
+
+#: monetize/registration/registration_language.php:24
+#@ templatic
+msgid "User registration has been disabled by the admin."
+msgstr ""
+
+#: monetize/registration/registration_language.php:25
+#@ templatic
+msgid "You are now logged out."
+msgstr ""
+
+#: monetize/registration/registration_language.php:26
+#@ templatic
+msgid "Please enter your e-mail address as username. You will receive a new password via e-mail."
+msgstr ""
+
+#: monetize/registration/registration_language.php:27
+#@ templatic
+msgid "Invalid Email, please check"
+msgstr ""
+
+#: monetize/registration/registration_language.php:28
+#@ templatic
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: language.php:227
+#: monetize/registration/registration_language.php:30
+#@ templatic
+msgid "Email ID already exists. Please select a different Email."
+msgstr ""
+
+#: language.php:228
+#: monetize/registration/registration_language.php:31
+#@ templatic
+msgid "New user registration disabled."
+msgstr ""
+
+#: monetize/registration/registration_language.php:38
+#@ templatic
+msgid "Confirm Password"
+msgstr ""
+
+#: monetize/registration/registration_language.php:40
+#@ templatic
+msgid "Profile edited successfully."
+msgstr ""
+
+#: monetize/registration/registration_language.php:41
+#@ templatic
+msgid "Please enter Email."
+msgstr ""
+
+#: monetize/registration/registration_language.php:42
+#@ templatic
+msgid "Email already exists, please choose another."
+msgstr ""
+
+#: monetize/registration/registration_language.php:43
+#@ templatic
+msgid "Password and Confirm Password should same."
+msgstr ""
+
+#: pagination.php:3
+#@ templatic
+msgid "Previous Page"
+msgstr ""
+
+#: pagination.php:4
+#@ templatic
+msgid "Next Page"
+msgstr ""
+
+#: pagination.php:8
+#@ templatic
+msgid "LOAD MORE"
+msgstr ""
+
+#: language.php:103
+#: monetize/manage_settings/admin_transaction_report.php:91
+#@ templatic
+msgid "Search"
+msgstr ""
+
+#: language.php:102
+#@ templatic
+msgid "Search this website"
+msgstr ""
+
+#: language.php:110
+#@ templatic
+msgid "Please enter word you want to search"
+msgstr ""
+
+#: language.php:106
+#: language.php:193
+#: monetize/custom_post_type/custom_post_type.php:104
+#: monetize/custom_post_type/custom_post_type.php:281
+#@ templatic
+msgid "Date"
+msgstr ""
+
+#: language.php:107
+#@ templatic
+msgid "<span>to</span>"
+msgstr ""
+
+#: language.php:108
+#: monetize/custom_post_type/custom_post_type.php:99
+#: monetize/custom_post_type/custom_post_type.php:274
+#@ templatic
+msgid "Author"
+msgstr ""
+
+#: language.php:109
+#@ templatic
+msgid "Exact author"
+msgstr ""
+
+#: language.php:128
+#@ templatic
+msgid "Meta"
+msgstr ""
+
+#: language.php:130
+#@ templatic
+msgid "RSS"
+msgstr ""
+
+#: language.php:131
+#@ templatic
+msgid "1.0 feed"
+msgstr ""
+
+#: language.php:132
+#@ templatic
+msgid "0.92 feed"
+msgstr ""
+
+#: language.php:133
+#@ templatic
+msgid "2.0 feed"
+msgstr ""
+
+#: language.php:134
+#@ templatic
+msgid "Atom feed"
+msgstr ""
+
+#: language.php:135
+#@ templatic
+msgid "<strong>Tags: </strong>"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:99
+#@ templatic
+msgid "Your login Information :"
+msgstr ""
+
+#: 404.php:10
+#@ templatic
+msgid "The page you are looking for does not exist. It appears you've missed your intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr ""
+
+#: 404.php:13
+#@ templatic
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:14
+#@ templatic
+msgid "404 Error the page that you are looking for does not exist go back. friend, go back"
+msgstr ""
+
+#: 404.php:38
+#: tpl_sitemap.php:50
+#@ templatic
+msgid "1 comment"
+msgstr ""
+
+#: admin/admin_menu.php:14
+#: monetize/manage_settings/function_manage_settings.php:2
+#@ templatic
+msgid "Advanced settings"
+msgstr ""
+
+#: admin/constants.php:16
+#@ templatic
+msgid "Menu region below header"
+msgstr ""
+
+#: admin/theme_options/functions/admin/category.php:31
+#: admin/theme_options/functions/admin/custom-post.php:31
+#: admin/theme_options/functions/admin/page.php:31
+#: admin/theme_options/functions/admin/post.php:31
+#: admin/theme_options/functions/admin/select.php:29
+#: admin/theme_options/functions/admin/tag.php:31
+#@ templatic
+msgid "Choose One"
+msgstr ""
+
+#: admin/theme_options/functions/admin/category.php:44
+#@ templatic
+msgid "No Categories Available"
+msgstr ""
+
+#: admin/theme_options/functions/admin/category.php:115
+#: admin/theme_options/functions/admin/tag.php:44
+#: admin/theme_options/functions/admin/tag.php:110
+#@ templatic
+msgid "No Tags Available"
+msgstr ""
+
+#: admin/theme_options/functions/admin/colorpicker.php:50
+msgid "Click text box for color picker"
+msgstr ""
+
+#: admin/theme_options/functions/admin/custom-post.php:44
+#: admin/theme_options/functions/admin/custom-post.php:110
+#@ templatic
+msgid "No Custom Posts Available"
+msgstr ""
+
+#: admin/theme_options/functions/admin/page.php:44
+#: admin/theme_options/functions/admin/post.php:44
+#: admin/theme_options/functions/admin/post.php:110
+#@ templatic
+msgid "No Pages Available"
+msgstr ""
+
+#: admin/theme_options/option_settings.php:35
+#@ templatic
+msgid "&quot;simplexmlelement&quot; is not supported under PHP 4.x. Please use version 5 or higher"
+msgstr ""
+
+#: admin/theme_options/option_settings.php:58
+#@ templatic
+msgid "Basic settings"
+msgstr ""
+
+#: author.php:48
+#@ templatic
+msgid "Visit website"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+#@ templatic
+msgid "%1$s Comment"
+msgstr ""
+
+#: language.php:2
+#@ templatic
+msgid "Rate this product by clicking a star below:"
+msgstr ""
+
+#: language.php:3
+#@ templatic
+msgid "Select all"
+msgstr ""
+
+#: language.php:4
+#@ templatic
+msgid "Word verification"
+msgstr ""
+
+#: language.php:6
+#: monetize/event/preview_event.php:126
+#: monetize/event/submit_event.php:439
+#: monetize/general/cancel.php:5
+#: monetize/general/return.php:5
+#: monetize/general/success.php:34
+#: monetize/place/preview.php:149
+#: monetize/registration/profile.php:210
+#: monetize/registration/registration.php:513
+#@ templatic
+msgid "Home"
+msgstr ""
+
+#: language.php:10
+#@ templatic
+msgid "&laquo; Back to my dashboard"
+msgstr ""
+
+#: language.php:11
+#@ templatic
+msgid "Listing :"
+msgstr ""
+
+#: language.php:12
+#@ templatic
+msgid "My submissions"
+msgstr ""
+
+#: language.php:14
+#@ templatic
+msgid "You have not posted any listing yet."
+msgstr ""
+
+#: language.php:15
+#@ templatic
+msgid "edit"
+msgstr ""
+
+#: language.php:16
+#@ templatic
+msgid "renew"
+msgstr ""
+
+#: language.php:17
+#@ templatic
+msgid "delete"
+msgstr ""
+
+#: language.php:18
+#@ templatic
+msgid "Alphabetical"
+msgstr ""
+
+#: language.php:19
+#@ templatic
+msgid "Latest published"
+msgstr ""
+
+#: language.php:20
+#@ templatic
+msgid "Random"
+msgstr ""
+
+#: language.php:24
+#@ templatic
+msgid "Near"
+msgstr ""
+
+#: language.php:25
+#@ templatic
+msgid "Search for"
+msgstr ""
+
+#: language.php:26
+#@ templatic
+msgid "food, products or place"
+msgstr ""
+
+#: language.php:27
+#@ templatic
+msgid "Zip code or address "
+msgstr ""
+
+#: language.php:35
+#@ templatic
+msgid "Author archive"
+msgstr ""
+
+#: language.php:36
+#@ templatic
+msgid "Blog archives"
+msgstr ""
+
+#: language.php:40
+#@ templatic
+msgid "Posts by "
+msgstr ""
+
+#: language.php:41
+#: single-blog.php:77
+#: tpl_archives.php:64
+#@ templatic
+msgid "on"
+msgstr ""
+
+#: language.php:42
+#@ templatic
+msgid "Tags :"
+msgstr ""
+
+#: language.php:43
+#@ templatic
+msgid "Total Views : "
+msgstr ""
+
+#: language.php:44
+#@ templatic
+msgid "Daily Views : "
+msgstr ""
+
+#: language.php:45
+#@ templatic
+msgid "Listing Map"
+msgstr ""
+
+#: language.php:46
+#@ templatic
+msgid "Related listing"
+msgstr ""
+
+#: language.php:47
+#: single-blog.php:206
+#@ templatic
+msgid "Previous post"
+msgstr ""
+
+#: language.php:48
+#: single-blog.php:209
+#@ templatic
+msgid "Next post"
+msgstr ""
+
+#: language.php:49
+#@ templatic
+msgid "Mail to a friend"
+msgstr ""
+
+#: language.php:50
+#@ templatic
+msgid "Send Inquiry"
+msgstr ""
+
+#: language.php:51
+#@ templatic
+msgid "Own this business?"
+msgstr ""
+
+#: language.php:52
+#@ templatic
+msgid "Time "
+msgstr ""
+
+#: language.php:53
+#@ templatic
+msgid "Phone "
+msgstr ""
+
+#: language.php:54
+#@ templatic
+msgid "Email "
+msgstr ""
+
+#: language.php:55
+#@ templatic
+msgid "Rating "
+msgstr ""
+
+#: language.php:59
+#@ templatic
+msgid "Print"
+msgstr ""
+
+#: language.php:60
+#@ templatic
+msgid "Special offer"
+msgstr ""
+
+#: language.php:64
+#@ templatic
+msgid "How to Register"
+msgstr ""
+
+#: language.php:66
+#: monetize/event/preview_event.php:196
+#@ templatic
+msgid "Fees : "
+msgstr ""
+
+#: language.php:67
+#: taxonomy-eventcategory.php:72
+#@ templatic
+msgid "Previous"
+msgstr ""
+
+#: language.php:68
+#: taxonomy-eventcategory.php:71
+#@ templatic
+msgid "Next"
+msgstr ""
+
+#: language.php:72
+#@ templatic
+msgid "Sort by : "
+msgstr ""
+
+#: language.php:73
+#: taxonomy-eventcategory.php:67
+#@ templatic
+msgid "All"
+msgstr ""
+
+#: language.php:74
+#@ templatic
+msgid "Reviews"
+msgstr ""
+
+#: language.php:75
+#@ templatic
+msgid "Rating"
+msgstr ""
+
+#: language.php:76
+#: loop.php:201
+#: taxonomy-eventcategory.php:225
+#: taxonomy-eventcategory.php:257
+#@ templatic
+msgid "Pinpoint"
+msgstr ""
+
+#: language.php:82
+#@ templatic
+msgid "You must be"
+msgstr ""
+
+#: language.php:83
+#@ templatic
+msgid "logged in"
+msgstr ""
+
+#: language.php:84
+#@ templatic
+msgid "to post a comment."
+msgstr ""
+
+#: language.php:87
+#@ templatic
+msgid "Post Your Review"
+msgstr ""
+
+#: language.php:88
+#@ templatic
+msgid "Review"
+msgstr ""
+
+#: language.php:90
+#@ templatic
+msgid "Comment"
+msgstr ""
+
+#: language.php:97
+#: library/functions/widgets.php:1838
+#@ templatic
+msgid "View"
+msgstr ""
+
+#: language.php:98
+#@ templatic
+msgid "More"
+msgstr ""
+
+#: language.php:105
+#: tpl_advanced_search.php:54
+#@ templatic
+msgid "select category"
+msgstr ""
+
+#: language.php:114
+#: monetize/event/single_page_checkout_insertuser.php:106
+#: monetize/general/single_page_checkout_insertuser.php:106
+#: monetize/manage_settings/notification_options.php:7
+#: monetize/manage_settings/notification_options.php:14
+#: monetize/manage_settings/notification_options.php:21
+#: monetize/manage_settings/notification_options.php:28
+#: monetize/place/single_page_checkout_insertuser.php:107
+#@ templatic
+msgid "Dear"
+msgstr ""
+
+#: language.php:119
+#@ templatic
+msgid "For further inquiry, fill out the form below"
+msgstr ""
+
+#: language.php:120
+#@ templatic
+msgid "Your message is sent successfully."
+msgstr ""
+
+#: language.php:129
+#@ templatic
+msgid "RDF/RSS"
+msgstr ""
+
+#: language.php:141
+#@ templatic
+msgid "Search results for category"
+msgstr ""
+
+#: language.php:142
+#@ templatic
+msgid "Search results for author"
+msgstr ""
+
+#: language.php:143
+#@ templatic
+msgid "Search results for date"
+msgstr ""
+
+#: language.php:144
+#@ templatic
+msgid "Search result for "
+msgstr ""
+
+#: language.php:149
+#: monetize/email_notification/popup_owner_frm.php:17
+#@ templatic
+msgid "Full name"
+msgstr ""
+
+#: language.php:150
+#: monetize/email_notification/popup_frms.php:21
+#: monetize/email_notification/popup_owner_frm.php:19
+#@ templatic
+msgid "Your email"
+msgstr ""
+
+#: language.php:151
+#: monetize/email_notification/popup_owner_frm.php:21
+#@ templatic
+msgid "Contact number"
+msgstr ""
+
+#: language.php:155
+#@ templatic
+msgid "Inquiry"
+msgstr ""
+
+#: language.php:156
+#@ templatic
+msgid ""
+"Hello,\n"
+"\n"
+"I would like to inquire more about this listing. Please let me know how can I get in touch with you. Waiting for your prompt reply?"
+msgstr ""
+
+#: language.php:163
+#@ templatic
+msgid "2010"
+msgstr ""
+
+#: language.php:164
+#@ templatic
+msgid "All rights reserved."
+msgstr ""
+
+#: language.php:165
+#@ templatic
+msgid "Designed by"
+msgstr ""
+
+#: language.php:166
+#@ templatic
+msgid "Templatic"
+msgstr ""
+
+#: language.php:169
+msgid "Add place listing"
+msgstr ""
+
+#: language.php:170
+msgid "Add event listing"
+msgstr ""
+
+#: language.php:171
+msgid "Add listing preview"
+msgstr ""
+
+#: language.php:172
+msgid "Site Registration and Login Form"
+msgstr ""
+
+#: language.php:173
+msgid "Success!"
+msgstr ""
+
+#: language.php:175
+msgid "How to register"
+msgstr ""
+
+#: language.php:176
+msgid "Registration fees"
+msgstr ""
+
+#: language.php:177
+msgid "Enter how to register details "
+msgstr ""
+
+#: language.php:180
+msgid "Enter registration fees, in  eg. : <b>50</b>"
+msgstr ""
+
+#: language.php:181
+msgid "Would you like to make this place featured?"
+msgstr ""
+
+#: language.php:182
+msgid "An additional amount will be charged to make this place featured.You have the option to feature your place on home page or category page or both."
+msgstr ""
+
+#: language.php:183
+msgid "Total price as per your selection."
+msgstr ""
+
+#: language.php:187
+#: library/functions/widgets.php:1673
+#: monetize/custom_post_type/custom_post_type_lang.php:55
+#@ templatic
+msgid "Add event"
+msgstr ""
+
+#: language.php:188
+msgid "Renew event"
+msgstr ""
+
+#: language.php:189
+msgid "Update event"
+msgstr ""
+
+#: language.php:191
+msgid "Renew place"
+msgstr ""
+
+#: language.php:192
+msgid "Update place"
+msgstr ""
+
+#: language.php:194
+#: language.php:278
+msgid "Time"
+msgstr ""
+
+#: language.php:203
+msgid "Add images : <small>(You can upload more than one images to create image gallery on detail page)</small>"
+msgstr ""
+
+#: language.php:205
+#: language.php:269
+msgid "Listing Description"
+msgstr ""
+
+#: language.php:216
+msgid "Select payment method"
+msgstr ""
+
+#: language.php:219
+#: language.php:220
+#, php-format
+msgid "This is a preview of your listing and it&rsquo;s not published yet. <br />You can either go back and edit the details or click on &lsquo;Pay &amp; Publish&rsquo;.<br/>Selected package: <b>%s</b> with validity <b>%s</b> | Amount to be paid: <b>%s</b>"
+msgstr ""
+
+#: language.php:222
+msgid "This is a preview of your listing and it&lsquo;s not updated yet. <br />You can either go back and edit the details or click on &lsquo;Update Now&rsquo;."
+msgstr ""
+
+#: language.php:230
+msgid "Select Package"
+msgstr ""
+
+#: language.php:231
+msgid "Set Google Map"
+msgstr ""
+
+#: language.php:233
+msgid "Review your listing"
+msgstr ""
+
+#: language.php:234
+msgid "Listing information"
+msgstr ""
+
+#: language.php:235
+msgid "Select place type"
+msgstr ""
+
+#: language.php:237
+msgid "Place Title"
+msgstr ""
+
+#: language.php:238
+msgid "Note : You can sort images from Dashboard and then clicking on \"Edit\" in the listing"
+msgstr ""
+
+#: language.php:244
+msgid "Enter valid Email else you will face an error on the next page."
+msgstr ""
+
+#: language.php:248
+msgid "Tag Keyword"
+msgstr ""
+
+#: language.php:249
+msgid "Tags are short keywords, with no space within. Up to 40 characters only."
+msgstr ""
+
+#: language.php:259
+msgid "Google Map View"
+msgstr ""
+
+#: language.php:260
+#: language.php:439
+#@ templatic
+msgid "Select City"
+msgstr ""
+
+#: language.php:263
+msgid "Home Information"
+msgstr ""
+
+#: language.php:271
+msgid "Fill Out Event Information"
+msgstr ""
+
+#: language.php:272
+msgid "Enter place details"
+msgstr ""
+
+#: language.php:274
+msgid "Enter Event Details"
+msgstr ""
+
+#: language.php:275
+msgid "Event Title"
+msgstr ""
+
+#: language.php:279
+msgid "Event Start Date"
+msgstr ""
+
+#: language.php:280
+msgid "Enter Event Start Date. eg. : "
+msgstr ""
+
+#: language.php:281
+msgid "Start Time"
+msgstr ""
+
+#: language.php:282
+msgid "Enter Event Start Time. eg. : "
+msgstr ""
+
+#: language.php:284
+msgid "Event End Date"
+msgstr ""
+
+#: language.php:285
+msgid "Enter Event End Date. eg. : "
+msgstr ""
+
+#: language.php:286
+msgid "End Time"
+msgstr ""
+
+#: language.php:287
+msgid "Enter Event End Time. eg. : "
+msgstr ""
+
+#: language.php:289
+msgid "Phone"
+msgstr ""
+
+#: language.php:292
+msgid "Are you really sure want to DELETE this listing? Deleted listing can not be recovered later"
+msgstr ""
+
+#: language.php:294
+msgid "This listing is listed as Featured. Do you want to remove it from feature listing?"
+msgstr ""
+
+#: language.php:296
+msgid "Please enter listing address. eg. : <b>230 Vine Street And locations throughout Old City, Philadelphia, PA 19106</b>"
+msgstr ""
+
+#: language.php:297
+msgid "Enter Business or listing Timing Information. <br /> eg. : <b>10.00 am to 6 pm every day</b>"
+msgstr ""
+
+#: language.php:298
+msgid "Please enter latitude for google map perfection. eg. : <b>39.955823048131286</b>"
+msgstr ""
+
+#: language.php:299
+msgid "Please enter longitude for google map perfection. eg. : <b>-75.14408111572266</b>"
+msgstr ""
+
+#: language.php:300
+msgid "Click on \"Set Address on Map\" and then you can also drag pinpoint to locate the correct address"
+msgstr ""
+
+#: language.php:301
+msgid "You can enter phone number,cell phone number etc."
+msgstr ""
+
+#: language.php:302
+msgid "Enter website URL. eg. : <b>http://myplace.com</b>"
+msgstr ""
+
+#: language.php:303
+msgid "Enter twitter URL. eg. : <b>http://twitter.com/myplace</b>"
+msgstr ""
+
+#: language.php:304
+msgid "Enter facebook URL. eg. : <b>http://facebook.com/myplace</b>"
+msgstr ""
+
+#: language.php:305
+msgid "Select listing category from here. Select atleast one category"
+msgstr ""
+
+#: language.php:306
+msgid "Select event category from here. Select atleast one category"
+msgstr ""
+
+#: language.php:309
+msgid "Your listing is submitted successfully!"
+msgstr ""
+
+#: language.php:310
+msgid "Your listing is renewed successfully!"
+msgstr ""
+
+#: language.php:311
+msgid "<p>Thank you, your information has been received.</p><p><a href=\"[#submited_information_link#]\" >View your listing &raquo;</a></p><p>Thank you for visiting us at [#site_name#].</p>"
+msgstr ""
+
+#: language.php:312
+msgid ""
+"<p>Thank you, your request received successfully.</p><p>To publish the listing please transfer the amount of <u>[#order_amt#] </u> at our bank with the following information :</p>\n"
+"<p>Bank Name : [#bank_name#]</p><p>Account Number : [#account_number#]</p><br><p>Please include the ID as reference : [#orderId#]</p><p><a href=\"[#submited_information_link#]\" >View your submitted listing</a><br>\n"
+"<p>Thank you for visit at [#site_name#].</p>"
+msgstr ""
+
+#: language.php:316
+msgid "The listing process was canceled"
+msgstr ""
+
+#: language.php:317
+msgid "<p>We could not process your listing as expected. You can try adding a listing or an event listing again. If the cancellation happens repeatedly, contact the administrator. Thank you for visiting us.</p>"
+msgstr ""
+
+#: language.php:320
+msgid "Payment successful!"
+msgstr ""
+
+#: language.php:321
+msgid ""
+"<h4>Your payment has been received successfully and your listing is published.</h4>\n"
+"<p><a href=\"[#submited_information_link#]\" >View your listing &raquo;</a></p><h5>Thank you for becoming a member at [#site_name#].</h5>"
+msgstr ""
+
+#: language.php:323
+msgid "<h4>Inavalid transation</h4>"
+msgstr ""
+
+#: language.php:324
+#@ templatic
+msgid "<p>There is some error occured while transaction is being process, please try again.</p>"
+msgstr ""
+
+#: language.php:325
+#@ templatic
+msgid "<p>Authentication fail, invalid transaction id generated.</p>"
+msgstr ""
+
+#: language.php:332
+msgid "Account information"
+msgstr ""
+
+#: language.php:341
+msgid "Guest"
+msgstr ""
+
+#: language.php:344
+msgid "Signup"
+msgstr ""
+
+#: language.php:349
+msgid "Verified"
+msgstr ""
+
+#: language.php:350
+msgid "IP Detected for this post is :"
+msgstr ""
+
+#: language.php:351
+msgid "This post is verified."
+msgstr ""
+
+#: language.php:352
+msgid "This entry has not yet been claimed by anyone."
+msgstr ""
+
+#: language.php:353
+msgid "Claim this post"
+msgstr ""
+
+#: language.php:354
+#: library/functions/widgets.php:1837
+#@ templatic
+msgid "Verify this post"
+msgstr ""
+
+#: language.php:355
+msgid "Unblock IP."
+msgstr ""
+
+#: language.php:356
+msgid "Block IP"
+msgstr ""
+
+#: language.php:357
+msgid "IP address not detected for this post."
+msgstr ""
+
+#: language.php:358
+msgid "Submitted from IP"
+msgstr ""
+
+#: language.php:359
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: language.php:360
+msgid "Entry deleted."
+msgstr ""
+
+#: language.php:361
+msgid "No action taken."
+msgstr ""
+
+#: language.php:362
+msgid "This IP is already blocked."
+msgstr ""
+
+#: language.php:366
+msgid "Add a new price package"
+msgstr ""
+
+#: language.php:367
+msgid "Here you can edit price detail"
+msgstr ""
+
+#: language.php:368
+msgid "&laquo; Back to manage price package list"
+msgstr ""
+
+#: language.php:369
+msgid "<p class=\"notes_spec\">Make a new price package here. You can set the validity period, status and customize pricing for featured listings within this package.</p>"
+msgstr ""
+
+#: language.php:370
+msgid "Post type"
+msgstr ""
+
+#: language.php:371
+msgid "Price settings"
+msgstr ""
+
+#: language.php:372
+#: monetize/manage_settings/admin_bulk_upload.php:468
+#: monetize/manage_settings/admin_bulk_upload.php:523
+#@ templatic
+msgid "Select post type"
+msgstr ""
+
+#: language.php:373
+msgid "Apply this package to these categories"
+msgstr ""
+
+#: language.php:376
+msgid "Price package title"
+msgstr ""
+
+#: language.php:377
+msgid "The name of the package that will appear in the front/back-end."
+msgstr ""
+
+#: language.php:378
+msgid "Package cost"
+msgstr ""
+
+#: language.php:379
+msgid "Set the package cost here. eg. 50"
+msgstr ""
+
+#: language.php:380
+msgid "Description of the price package"
+msgstr ""
+
+#: language.php:381
+msgid "Describe this price package in a few words. This field is optional."
+msgstr ""
+
+#: language.php:382
+#: language.php:387
+#: monetize/manage_settings/ajax_list_price_package.php:6
+#@ templatic
+msgid "Billing period"
+msgstr ""
+
+#: language.php:383
+msgid "Set the time period of this package."
+msgstr ""
+
+#: language.php:384
+msgid "Recurring?"
+msgstr ""
+
+#: language.php:386
+msgid "Charge users every"
+msgstr ""
+
+#: language.php:388
+msgid "Set the billing period of this package."
+msgstr ""
+
+#: language.php:389
+msgid "Maximum times recurring billing occurs"
+msgstr ""
+
+#: language.php:390
+msgid "Specify how many times the recurring billing process should occur. eg. 5"
+msgstr ""
+
+#: language.php:391
+msgid "Price settings for Featured listings"
+msgstr ""
+
+#: language.php:392
+msgid "<p class=\"notes_spec\">You might want to charge users extra amount for featured listings within this price package.</p> "
+msgstr ""
+
+#: language.php:393
+msgid "Activate/deactivate additional price settings for &raquofeatured&raquo listings."
+msgstr ""
+
+#: language.php:394
+msgid "Amount to be charged<br><small>(for featuring on homepage)</small>"
+msgstr ""
+
+#: language.php:395
+msgid "This is the price you wish to charge extra for featuring a place or an event listing on the homepage. eg. 20"
+msgstr ""
+
+#: language.php:396
+msgid "Amount to be charged<br><small>(for featuring on categories page)</small>"
+msgstr ""
+
+#: language.php:397
+msgid "This is the price you wish to charge extra for a place or an event listing on category pages. eg. 12"
+msgstr ""
+
+#: language.php:398
+msgid "This setting will activate / deactivate this price package."
+msgstr ""
+
+#: language.php:399
+msgid "My Favorites"
+msgstr ""
+
+#: language.php:400
+msgid "Add to Favorites"
+msgstr ""
+
+#: language.php:401
+#: library/functions/custom_functions.php:1021
+msgid "Remove from Favorites"
+msgstr ""
+
+#: language.php:402
+#: library/functions/custom_functions.php:527
+#: library/functions/widgets.php:721
+#: library/functions/widgets.php:766
+#: library/functions/widgets.php:824
+#: library/functions/widgets.php:974
+#: library/functions/widgets.php:1034
+#: library/functions/widgets.php:1093
+#: library/functions/widgets.php:1246
+#@ templatic
+msgid "Image Not Available"
+msgstr ""
+
+#: language.php:403
+msgid "<strong>No place available under this category.</strong>"
+msgstr ""
+
+#: language.php:404
+msgid "<strong>No event available right now</strong>"
+msgstr ""
+
+#: language.php:405
+#: language.php:406
+msgid "Location : "
+msgstr ""
+
+#: language.php:407
+msgid "No record inserted "
+msgstr ""
+
+#: language.php:412
+msgid "Package cost "
+msgstr ""
+
+#: language.php:413
+msgid "Status "
+msgstr ""
+
+#: language.php:414
+msgid "Description "
+msgstr ""
+
+#: language.php:415
+msgid "Billing period "
+msgstr ""
+
+#: language.php:416
+msgid "Post type "
+msgstr ""
+
+#: language.php:417
+msgid "Post categoery"
+msgstr ""
+
+#: language.php:418
+msgid "Recurring payment"
+msgstr ""
+
+#: language.php:419
+msgid "Show this price package even when no category selected."
+msgstr ""
+
+#: language.php:420
+#@ templatic
+msgid "Processing for PayPal, please wait..."
+msgstr ""
+
+#: language.php:423
+msgid "Your IP is blocked. You can not add a place."
+msgstr ""
+
+#: language.php:424
+msgid "Yes &sbquo; feature this listing on homepage."
+msgstr ""
+
+#: language.php:425
+msgid "Yes &sbquo; feature this listing on category pages."
+msgstr ""
+
+#: language.php:426
+msgid "1. Enter Place Listing Details"
+msgstr ""
+
+#: language.php:427
+msgid "2. Preview listing &amp; Payment"
+msgstr ""
+
+#: language.php:428
+msgid "3. Place Successful"
+msgstr ""
+
+#: language.php:429
+msgid "Authorised.net payment processing...."
+msgstr ""
+
+#: language.php:432
+msgid "1. Enter Event Listing Details"
+msgstr ""
+
+#: language.php:433
+msgid "Yes &sbquo; feature this event on homepage."
+msgstr ""
+
+#: language.php:434
+msgid "Yes &sbquo; feature this event on category pages."
+msgstr ""
+
+#: language.php:435
+msgid "2. Preview Event &amp; Payment"
+msgstr ""
+
+#: language.php:436
+msgid "3. Event Successful"
+msgstr ""
+
+#: language.php:440
+#@ templatic
+msgid "Select a city below to display places &amp; events related to that city."
+msgstr ""
+
+#: library/functions/custom_filters.php:30
+#@ templatic
+msgid "GeoPlaces"
+msgstr ""
+
+#: library/functions/custom_functions.php:94
+#, php-format
+#@ templatic
+msgid "<span>%s</span>"
+msgstr ""
+
+#: library/functions/custom_functions.php:94
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/functions/custom_functions.php:142
+msgid "Add to my calendar"
+msgstr ""
+
+#: library/functions/custom_functions.php:145
+msgid "Outlook Calendar"
+msgstr ""
+
+#: library/functions/custom_functions.php:146
+msgid "Google Calendar"
+msgstr ""
+
+#: library/functions/custom_functions.php:147
+msgid "Yahoo! Calendar"
+msgstr ""
+
+#: library/functions/custom_functions.php:148
+msgid "iCal Calendar"
+msgstr ""
+
+#: library/functions/custom_functions.php:225
+msgid "For+details,+link+"
+msgstr ""
+
+#: library/functions/custom_functions.php:483
+msgid "Related Listing"
+msgstr ""
+
+#: library/functions/general_functions.php:19
+msgid "Pay with name"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:17
+msgid "Custom Menu"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:110
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:119
+msgid "Select Menu:"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:131
+#@ dcjq-mega-menu
+msgid "Click"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:133
+#@ dcjq-mega-menu
+msgid "Hover"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:136
+#@ dcjq-mega-menu
+msgid "Number Items Per Row"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:150
+#@ dcjq-mega-menu
+msgid "Skin:"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:154
+#@ dcjq-mega-menu
+msgid "Animation Effect:"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:156
+#@ templatic
+msgid "Fade In"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:157
+#@ templatic
+msgid "Slide Down"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:161
+#@ dcjq-mega-menu
+msgid "Animation Speed:"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:163
+#@ templatic
+msgid "No Animation"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:164
+#@ templatic
+msgid "Fast"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:165
+#@ templatic
+msgid "Normal"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:166
+#@ templatic
+msgid "Slow"
+msgstr ""
+
+#: library/functions/mega_menu_widget.php:172
+#@ dcjq-accordion
+msgid "Set Sub Menu To Full Width"
+msgstr ""
+
+#: library/functions/meta_boxes.php:262
+#@ templatic
+msgid "Event title"
+msgstr ""
+
+#: library/functions/meta_boxes.php:264
+#@ templatic
+msgid "Duration"
+msgstr ""
+
+#: library/functions/meta_boxes.php:265
+#: library/functions/meta_boxes.php:327
+#@ templatic
+msgid "Daily views"
+msgstr ""
+
+#: library/functions/meta_boxes.php:266
+#: library/functions/meta_boxes.php:328
+#@ templatic
+msgid "Total views"
+msgstr ""
+
+#: library/functions/meta_boxes.php:295
+#@ templatic
+msgid "No recent event available"
+msgstr ""
+
+#: library/functions/meta_boxes.php:325
+#@ templatic
+msgid "Place title"
+msgstr ""
+
+#: library/functions/meta_boxes.php:353
+#@ templatic
+msgid "No recent place available"
+msgstr ""
+
+#: library/functions/widgets/ads.php:36
+#@ templatic
+msgid "Advertisement code <small>(ex.&lt;a href=\"#\"&gt;&lt;img src=\"http://templatic.com/banner.png\" /&gt;&lt;/a&gt; and google ads code here )</small>"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:6
+#@ templatic
+msgid "A simple contact form where site visitors can send you a message with their name and email address."
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:7
+#@ templatic
+msgid "T &rarr; Contact us"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:67
+#@ templatic
+msgid "Thank you, your information is sent successfully."
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:72
+#@ templatic
+msgid "Please fill out all the fields before submitting."
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:123
+#: library/functions/widgets/login/login.php:335
+#@ templatic
+msgid "Please Enter Name"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:158
+#@ templatic
+msgid "Please Enter valid Email"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:177
+#@ templatic
+msgid "Please Enter Subject"
+msgstr ""
+
+#: library/functions/widgets/contact/contact.php:194
+#@ templatic
+msgid "Please Enter Message"
+msgstr ""
+
+#: library/functions/widgets/featured_video.php:7
+#@ templatic
+msgid "Shows a list of featured video from a particular category. A Post custom field \"video\" is required with embed code to make this widget work."
+msgstr ""
+
+#: library/functions/widgets/featured_video.php:8
+#@ templatic
+msgid "T &rarr; Featured Video"
+msgstr ""
+
+#: library/functions/widgets/featured_video.php:93
+#@ templatic
+msgid "Before using this widget, make sure you&rsquo;ve added a custom field called \"video\" in the post.  "
+msgstr ""
+
+#: library/functions/widgets/flickr.php:8
+#@ templatic
+msgid "Enter your Flickr ID and you can see Flickr Photos"
+msgstr ""
+
+#: library/functions/widgets/flickr.php:9
+#@ templatic
+msgid "T &rarr; Flickr Photos"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:10
+#@ templatic
+msgid "Displays a Google map based on the location OR location / latitude you enter here."
+msgstr ""
+
+#: library/functions/widgets/google_map.php:11
+#@ templatic
+msgid "T &rarr; Geo-location on Google map"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:88
+#@ templatic
+msgid "Get direction on map &raquo;"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:125
+#@ templatic
+msgid "Address <small>(eg: 230 Vine street, Old city, Philadelphia, PA 19106)</small>"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:128
+#@ templatic
+msgid "Latitude <small>(eg: 39.95)</small>"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:130
+#@ templatic
+msgid "Longitude <small>(eg: -75.14)</small>"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:133
+#@ templatic
+msgid "Map width (in pixels)"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:136
+#@ templatic
+msgid "Map height (in pixels)"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:140
+#@ templatic
+msgid "Map zoom level"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:154
+#@ templatic
+msgid "Select map type"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:156
+#@ templatic
+msgid "Road map"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:157
+#@ templatic
+msgid "Satellite map"
+msgstr ""
+
+#: library/functions/widgets/google_map.php:158
+#@ templatic
+msgid "Terrain map"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:9
+#@ templatic
+msgid "Post with image and date"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:10
+#@ templatic
+msgid "T &rarr; Post with image and date"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:59
+#: library/functions/widgets.php:1351
+#: tpl_archives.php:61
+#@ templatic
+msgid "by"
+msgstr ""
+
+#: library/functions/widgets/latest_posts.php:59
+#: library/functions/widgets/popularposts.php:34
+#: library/functions/widgets.php:1442
+#@ templatic
+msgid "at"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:39
+#: monetize/registration/registration.php:218
+#@ templatic
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the "
+msgstr ""
+
+#: library/functions/widgets/login/login.php:100
+#: monetize/registration/registration.php:77
+#@ templatic
+msgid "Username: "
+msgstr ""
+
+#: library/functions/widgets/login/login.php:101
+#: monetize/registration/registration.php:78
+#@ templatic
+msgid "Password: "
+msgstr ""
+
+#: library/functions/widgets/login/login.php:108
+#: monetize/registration/registration.php:85
+#@ templatic
+msgid " Your new password"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:207
+#@ templatic
+msgid "Loginbox Widget"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:208
+#@ templatic
+msgid "T &rarr; Loginbox"
+msgstr ""
+
+#: library/functions/widgets/login/login.php:354
+#@ templatic
+msgid "Please Enter password"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:9
+#@ templatic
+msgid "Tell your readers about yourself using this short bio widget"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:10
+#@ templatic
+msgid "T &rarr; Author Bio"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:61
+#@ templatic
+msgid "Author&rsquo; photo <small>(please enter full URL to the image file)</small>"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:63
+#@ templatic
+msgid "Basic description"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:65
+#@ templatic
+msgid "Extended description:  <small>(You can use HTML tags. For eg. &lt;p&gt;My bio&lt;/p&gt;)</small>"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:67
+#@ templatic
+msgid "&lsquo;Read more&rsquo; text"
+msgstr ""
+
+#: library/functions/widgets/my_bio.php:69
+#@ templatic
+msgid "&lsquo;Read more&rsquo; URL <small>(eg.http://yoursite.com/about)</small>"
+msgstr ""
+
+#: library/functions/widgets/popularposts.php:8
+#@ templatic
+msgid "Popular Posts Widget"
+msgstr ""
+
+#: library/functions/widgets/popularposts.php:9
+#@ templatic
+msgid "T &rarr; Popular Posts"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:7
+#@ templatic
+msgid "Show social media sharing buttons."
+msgstr ""
+
+#: library/functions/widgets/social_media.php:8
+#@ templatic
+msgid "T &rarr; Social media buttons"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:79
+#@ templatic
+msgid "Twitter profile URL"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:80
+#@ templatic
+msgid "Facebook profile URL"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:81
+#@ templatic
+msgid "Digg profile URL"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:82
+#@ templatic
+msgid "Linkedin profile URL"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:83
+#@ templatic
+msgid "Myspace profile URL"
+msgstr ""
+
+#: library/functions/widgets/social_media.php:84
+#@ templatic
+msgid "RSS feeds URL"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:6
+#@ templatic
+msgid "Subscribe Widget"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:7
+#@ templatic
+msgid "T &rarr; Subscribe"
+msgstr ""
+
+#: library/functions/widgets/subscribe.php:50
+#@ templatic
+msgid "Short Description:"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:6
+#@ templatic
+msgid "Testimonials Widget"
+msgstr ""
+
+#: library/functions/widgets/testimonials.php:7
+#@ templatic
+msgid "T &rarr; Testimonials"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:8
+#@ templatic
+msgid "Show your latest tweets on your site."
+msgstr ""
+
+#: library/functions/widgets/twitter.php:9
+#@ templatic
+msgid "T &rarr; Latest tweets"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:60
+#@ templatic
+msgid "Twitter handle"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:65
+#@ templatic
+msgid "Number of tweets to show"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:70
+#@ templatic
+msgid "Twitter button text <small>(for eg. Follow us, Join me on Twitter, etc.)</small>"
+msgstr ""
+
+#: library/functions/widgets/twitter.php:74
+msgid "Please use this widget only <b>once per page</b>."
+msgstr ""
+
+#: library/functions/widgets/twitter.php:76
+#@ templatic
+msgid "You should user this widget <b>once on the page</b>. As it will not display tweet for more than one ID."
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:10
+#@ templatic
+msgid "Above Header"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:16
+#@ templatic
+msgid "Header: Right area"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:22
+#@ templatic
+msgid "Below Header"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:28
+#@ templatic
+msgid "Homepage: Above Fold"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:34
+#@ templatic
+msgid "Single post: Below Content"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:45
+#@ templatic
+msgid "Sidebar: Combined width"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:51
+#@ templatic
+msgid "Pre-footer: First column"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:53
+#@ templatic
+msgid "Pre-footer: Second column"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:55
+#@ templatic
+msgid "Pre-footer: Third column"
+msgstr ""
+
+#: library/functions/widgets/widgets_sidebar.php:57
+#@ templatic
+msgid "Pre-footer: Fourth column"
+msgstr ""
+
+#: library/functions/widgets.php:7
+msgid "Multi City Options. It should be once on the page."
+msgstr ""
+
+#: library/functions/widgets.php:8
+msgid "PT &rarr; Multi City Options"
+msgstr ""
+
+#: library/functions/widgets.php:48
+msgid "Home banner with slider"
+msgstr ""
+
+#: library/functions/widgets.php:49
+msgid "PT &rarr; Home Banner"
+msgstr ""
+
+#: library/functions/widgets.php:245
+#: library/functions/widgets.php:550
+msgid "Banner Images slices (slider images slice effect):"
+msgstr ""
+
+#: library/functions/widgets.php:249
+#: library/functions/widgets.php:554
+msgid "Banner Slider image in time :"
+msgstr ""
+
+#: library/functions/widgets.php:253
+#: library/functions/widgets.php:558
+msgid "Banner Slider image out time :"
+msgstr ""
+
+#: library/functions/widgets.php:258
+msgid "Banner image Width (maximum 940px) :"
+msgstr ""
+
+#: library/functions/widgets.php:262
+msgid "Banner image Height (minimum 100px) :"
+msgstr ""
+
+#: library/functions/widgets.php:267
+#: library/functions/widgets.php:571
+msgid "Banner Effect:"
+msgstr ""
+
+#: library/functions/widgets.php:270
+#: library/functions/widgets.php:574
+#@ templatic
+msgid "fold"
+msgstr ""
+
+#: library/functions/widgets.php:271
+#: library/functions/widgets.php:575
+#@ templatic
+msgid "fade"
+msgstr ""
+
+#: library/functions/widgets.php:272
+#: library/functions/widgets.php:576
+#@ templatic
+msgid "sliceDown"
+msgstr ""
+
+#: library/functions/widgets.php:277
+#: library/functions/widgets.php:581
+msgid "Banner Slider Image 1 full URL (size : w940xh425 pixel) (ex.http://templatic.com/images/banner1.png)  :"
+msgstr ""
+
+#: library/functions/widgets.php:280
+#: library/functions/widgets.php:584
+msgid "Banner Slider Image 1 Link (ex.http://templatic.com)  :"
+msgstr ""
+
+#: library/functions/widgets.php:283
+#: library/functions/widgets.php:587
+msgid "Banner Slider Image 2 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:286
+#: library/functions/widgets.php:590
+msgid "Banner Slider Image 2 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:289
+#: library/functions/widgets.php:593
+msgid "Banner Slider Image 3 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:292
+msgid "Banner Slider Image 3 Link  :"
+msgstr ""
+
+#: library/functions/widgets.php:295
+#: library/functions/widgets.php:599
+msgid "Banner Slider Image 4 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:298
+msgid "Banner Slider Image 4 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:301
+msgid "Banner Slider Image 5 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:304
+msgid "Banner Slider Image 5 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:307
+msgid "Banner Slider Image 6 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:310
+msgid "Banner Slider Image 6 Link  :"
+msgstr ""
+
+#: library/functions/widgets.php:313
+msgid "Banner Slider Image 7 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:316
+msgid "Banner Slider Image 7 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:319
+msgid "Banner Slider Image 8 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:322
+msgid "Banner Slider Image 8 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:325
+msgid "Banner Slider Image 9 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:328
+msgid "Banner Slider Image 9 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:331
+msgid "Banner Slider Image 10 full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:334
+msgid "Banner Slider Image 10 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:347
+msgid "We Recommend - slider"
+msgstr ""
+
+#: library/functions/widgets.php:348
+msgid "PT &rarr; We Recommend"
+msgstr ""
+
+#: library/functions/widgets.php:562
+msgid "Banner image width (maximum 20%) :"
+msgstr ""
+
+#: library/functions/widgets.php:566
+msgid "Banner image height (minimum 20%) :"
+msgstr ""
+
+#: library/functions/widgets.php:573
+#@ templatic
+msgid "random"
+msgstr ""
+
+#: library/functions/widgets.php:596
+msgid "Banner Slider Image 3 Link :"
+msgstr ""
+
+#: library/functions/widgets.php:602
+msgid "Banner Slider Image 4 Link"
+msgstr ""
+
+#: library/functions/widgets.php:605
+msgid "Banner Slider Image 5 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:608
+msgid "Banner Slider Image 5 Link"
+msgstr ""
+
+#: library/functions/widgets.php:611
+msgid "Banner Slider Image 6 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:614
+msgid "Banner Slider Image 6 Link"
+msgstr ""
+
+#: library/functions/widgets.php:617
+msgid "Banner Slider Image 7 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:620
+msgid "Banner Slider Image 7 Link"
+msgstr ""
+
+#: library/functions/widgets.php:623
+msgid "Banner Slider Image 8 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:626
+msgid "Banner Slider Image 8 Link"
+msgstr ""
+
+#: library/functions/widgets.php:629
+msgid "Banner Slider Image 9 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:632
+msgid "Banner Slider Image 9 Link"
+msgstr ""
+
+#: library/functions/widgets.php:635
+msgid "Banner Slider Image 10 full URL"
+msgstr ""
+
+#: library/functions/widgets.php:638
+msgid "Banner Slider Image 10 Link"
+msgstr ""
+
+#: library/functions/widgets.php:653
+#: library/functions/widgets.php:908
+#@ templatic
+msgid "Show recent place or event listings in a list layout."
+msgstr ""
+
+#: library/functions/widgets.php:654
+#@ templatic
+msgid "T &rarr; Recent Listings (List view)"
+msgstr ""
+
+#: library/functions/widgets.php:711
+#: library/functions/widgets.php:757
+#: library/functions/widgets.php:815
+#: library/functions/widgets.php:965
+#: library/functions/widgets.php:1025
+#: library/functions/widgets.php:1084
+#: library/functions/widgets.php:1237
+#: loop.php:93
+#: taxonomy-eventcategory.php:167
+#: taxonomy-placecategory.php:86
+#: taxonomy-placecategory.php:97
+#: taxonomy-placecategory.php:119
+#: taxonomy-placecategory.php:130
+#@ templatic
+msgid "featured"
+msgstr ""
+
+#: library/functions/widgets.php:727
+#: library/functions/widgets.php:773
+#: library/functions/widgets.php:830
+#: loop.php:198
+#: taxonomy-eventcategory.php:220
+#: taxonomy-placecategory.php:151
+msgid "0 review"
+msgstr ""
+
+#: library/functions/widgets.php:727
+#: library/functions/widgets.php:773
+#: library/functions/widgets.php:830
+#: loop.php:198
+#: taxonomy-eventcategory.php:220
+#: taxonomy-placecategory.php:151
+msgid "1 review"
+msgstr ""
+
+#: library/functions/widgets.php:727
+#: library/functions/widgets.php:773
+#: library/functions/widgets.php:830
+#: loop.php:198
+#: taxonomy-eventcategory.php:220
+#: taxonomy-placecategory.php:151
+msgid "% review"
+msgstr ""
+
+#: library/functions/widgets.php:869
+#: library/functions/widgets.php:1154
+#@ templatic
+msgid "View All Text :"
+msgstr ""
+
+#: library/functions/widgets.php:870
+#: library/functions/widgets.php:1155
+#@ templatic
+msgid "View All Link URL (ex.http://templatic.com/events):"
+msgstr ""
+
+#: library/functions/widgets.php:909
+#@ templatic
+msgid "T &rarr; Recent Listings (Grid view)"
+msgstr ""
+
+#: library/functions/widgets.php:983
+#: library/functions/widgets.php:1043
+#: library/functions/widgets.php:1102
+#: library/functions/widgets.php:1255
+#: taxonomy-eventcategory.php:260
+#: taxonomy-placecategory.php:187
+msgid "0"
+msgstr ""
+
+#: library/functions/widgets.php:983
+#: library/functions/widgets.php:1043
+#: library/functions/widgets.php:1102
+#: library/functions/widgets.php:1255
+#: taxonomy-eventcategory.php:260
+#: taxonomy-placecategory.php:187
+msgid "1"
+msgstr ""
+
+#: library/functions/widgets.php:983
+#: library/functions/widgets.php:1043
+#: library/functions/widgets.php:1102
+#: library/functions/widgets.php:1255
+#: taxonomy-eventcategory.php:260
+#: taxonomy-placecategory.php:187
+msgid "%"
+msgstr ""
+
+#: library/functions/widgets.php:1190
+msgid "List of upcoming Events"
+msgstr ""
+
+#: library/functions/widgets.php:1191
+msgid "PT &rarr; upcoming Events"
+msgstr ""
+
+#: library/functions/widgets.php:1221
+#: library/functions/widgets.php:1549
+msgid "View All"
+msgstr ""
+
+#: library/functions/widgets.php:1389
+#: library/functions/widgets.php:1483
+#: monetize/manage_settings/admin_bulk_upload.php:471
+#@ templatic
+msgid "Post"
+msgstr ""
+
+#: library/functions/widgets.php:1396
+#@ templatic
+msgid "Number of Reviews"
+msgstr ""
+
+#: library/functions/widgets.php:1406
+msgid "List of latest posts, places, events in particular category ( Sidebar or Footer content )"
+msgstr ""
+
+#: library/functions/widgets.php:1407
+msgid "PT &rarr; Latest Post / Places / Event"
+msgstr ""
+
+#: library/functions/widgets.php:1511
+msgid "List of In Featured Video in particular category"
+msgstr ""
+
+#: library/functions/widgets.php:1512
+msgid "PT &rarr; Featured Video"
+msgstr ""
+
+#: library/functions/widgets.php:1609
+#@ templatic
+msgid "View All link full URL :"
+msgstr ""
+
+#: library/functions/widgets.php:1625
+msgid "Put Add place links and login module. Recommended in the &lsquo;Header: Right area&rsquo;"
+msgstr ""
+
+#: library/functions/widgets.php:1626
+msgid "PT &rarr; Login & Add place widget"
+msgstr ""
+
+#: library/functions/widgets.php:1652
+#@ templatic
+msgid "Welcome, "
+msgstr ""
+
+#: library/functions/widgets.php:1658
+#@ templatic
+msgid "Edit profile"
+msgstr ""
+
+#: library/functions/widgets.php:1659
+#@ templatic
+msgid "Log out"
+msgstr ""
+
+#: library/functions/widgets.php:1717
+#@ templatic
+msgid "Show your facebook fans on your site."
+msgstr ""
+
+#: library/functions/widgets.php:1718
+#@ templatic
+msgid "T &rarr; Facebook Fans"
+msgstr ""
+
+#: library/functions/widgets.php:1769
+#@ templatic
+msgid "Facebook Page Full URL"
+msgstr ""
+
+#: library/functions/widgets.php:1774
+#@ templatic
+msgid "Width"
+msgstr ""
+
+#: library/functions/widgets.php:1779
+#@ templatic
+msgid "Show Faces"
+msgstr ""
+
+#: library/functions/widgets.php:1787
+#@ templatic
+msgid "Show Stream"
+msgstr ""
+
+#: library/functions/widgets.php:1795
+#@ templatic
+msgid "Show Header"
+msgstr ""
+
+#: library/functions/widgets.php:1836
+#@ templatic
+msgid "Details"
+msgstr ""
+
+#: library/functions/widgets.php:1837
+#@ templatic
+msgid "Verify"
+msgstr ""
+
+#: library/functions/widgets.php:1838
+#@ templatic
+msgid "View post"
+msgstr ""
+
+#: library/functions/widgets.php:1839
+#@ templatic
+msgid "Delete this request"
+msgstr ""
+
+#: library/functions/widgets.php:1880
+msgid "In the neighborhood Post List "
+msgstr ""
+
+#: library/functions/widgets.php:1881
+msgid "PT &rarr; In the neighborhood"
+msgstr ""
+
+#: library/functions/widgets.php:1996
+msgid "Image not available"
+msgstr ""
+
+#: library/functions/widgets.php:2057
+msgid "Category (<code>IDs</code> separated by commas):"
+msgstr ""
+
+#: library/functions/widgets.php:2067
+msgid "Show Listings From:"
+msgstr ""
+
+#: library/functions/widgets.php:2069
+msgid "So Far Away"
+msgstr ""
+
+#: library/functions/widgets.php:2070
+msgid "Far Away"
+msgstr ""
+
+#: library/functions/widgets.php:2071
+msgid "At Some Distant"
+msgstr ""
+
+#: library/functions/widgets.php:2072
+msgid "Nearer"
+msgstr ""
+
+#: library/functions/widgets.php:2073
+msgid "Very Near"
+msgstr ""
+
+#: library/includes/sidebar_event_detail.php:35
+#: library/includes/sidebar_place_detail.php:37
+#@ templatic
+msgid "EDIT THIS"
+msgstr ""
+
+#: library/includes/sidebar_event_detail.php:43
+#: library/includes/sidebar_place_detail.php:45
+#: monetize/event/preview_event.php:263
+#: monetize/place/preview.php:294
+#@ templatic
+msgid "<p class=\"i_verfied\">Owner Verified Listing</p>"
+msgstr ""
+
+#: library/includes/sidebar_event_detail.php:83
+#: library/includes/sidebar_place_detail.php:80
+#: monetize/event/preview_event.php:294
+#: monetize/place/preview.php:327
+msgid "Share"
+msgstr ""
+
+#: library/map/home_map_widget.php:106
+msgid "Google Map in Home page. It will show you google map V3 for Home page with category checkbox selection."
+msgstr ""
+
+#: library/map/home_map_widget.php:107
+msgid "PT &rarr; Google Map V3 - Home page"
+msgstr ""
+
+#: library/map/home_map_widget.php:294
+msgid "Map Height <small>(Default is : 425px)</small>"
+msgstr ""
+
+#: library/map/listing_map_widget.php:118
+msgid "Google Map for Listing page. It will show you google map V3 for Listing page."
+msgstr ""
+
+#: library/map/listing_map_widget.php:119
+msgid "PT &rarr; Google Map V3 - Listing page"
+msgstr ""
+
+#: library/map/listing_map_widget.php:282
+msgid "Map Width <small>(Default is : 294px)</small>"
+msgstr ""
+
+#: library/map/listing_map_widget.php:287
+msgid "Map Heigh <small>(Default is : 370px)</small>"
+msgstr ""
+
+#: library/map/single_map_widget.php:6
+msgid "Google Map in Detail page Sidebar. It will show you google map V3 for detail page only."
+msgstr ""
+
+#: library/map/single_map_widget.php:7
+msgid "PT &rarr; Google Map V3 - Detail page"
+msgstr ""
+
+#: library/map/single_map_widget.php:166
+#@ templatic
+msgid "Address not found for:"
+msgstr ""
+
+#: library/map/single_map_widget.php:178
+#@ templatic
+msgid "By car"
+msgstr ""
+
+#: library/map/single_map_widget.php:179
+#@ templatic
+msgid "Bicycling"
+msgstr ""
+
+#: library/map/single_map_widget.php:180
+#@ templatic
+msgid "Walking"
+msgstr ""
+
+#: library/map/single_map_widget.php:182
+#@ templatic
+msgid "Enter Your Location"
+msgstr ""
+
+#: library/rating/get_rating.php:14
+msgid " rating"
+msgstr ""
+
+#: library/rating/get_rating.php:21
+msgid "rating"
+msgstr ""
+
+#: loop.php:221
+msgid "preview"
+msgstr ""
+
+#: monetize/basic_settings.php:93
+#: monetize/registration/registration.php:191
+#@ templatic
+msgid ""
+"[SUBJECT-STR]Registration Email[SUBJECT-END]<p>Dear [#user_name#],</p>\n"
+"\t\t\t<p>Your login information:</p>\n"
+"\t\t\t<p>Username: [#user_login#]</p>\n"
+"\t\t\t<p>Password: [#user_password#]</p>\n"
+"\t\t\t<p>You can login from [#site_login_url#] or</p><p> the URL is : [#site_login_url_link#].</p>\n"
+"\t\t\t<p>We hope you enjoy. Thanks!</p>\n"
+"\t\t\t<p>[#site_name#]</p>"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:98
+msgid "Place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:103
+#: monetize/custom_post_type/custom_post_type.php:280
+msgid "Tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:128
+#: monetize/custom_post_type/custom_post_type.php:304
+msgid "Uncategorized"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:273
+#: monetize/custom_post_type/custom_post_type_lang.php:52
+#: monetize/custom_post_type/custom_post_type_lang.php:54
+#: monetize/manage_settings/export_cities.php:12
+#@ templatic
+msgid "Event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:277
+msgid "Start time"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type.php:278
+msgid "End time"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:6
+#: monetize/custom_post_type/custom_post_type_lang.php:7
+#: monetize/custom_post_type/custom_post_type_lang.php:8
+#@ templatic
+msgid "Places"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:9
+#@ templatic
+msgid "Add a place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:10
+#@ templatic
+msgid "Add new place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:12
+#@ templatic
+msgid "Edit place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:13
+#@ templatic
+msgid "New place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:14
+#@ templatic
+msgid "View place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:15
+#@ templatic
+msgid "Search place"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:16
+#@ templatic
+msgid "No place found"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:17
+#@ templatic
+msgid "No place found in trash"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:19
+#: monetize/custom_post_type/custom_post_type_lang.php:20
+#@ templatic
+msgid "Place categories"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:22
+#: monetize/custom_post_type/custom_post_type_lang.php:68
+#@ templatic
+msgid "Search category"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:23
+#: monetize/custom_post_type/custom_post_type_lang.php:69
+#@ templatic
+msgid "Popular categories"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:24
+#: monetize/custom_post_type/custom_post_type_lang.php:70
+#@ templatic
+msgid "All categories"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:25
+#: monetize/custom_post_type/custom_post_type_lang.php:71
+#@ templatic
+msgid "Parent category"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:26
+#: monetize/custom_post_type/custom_post_type_lang.php:72
+#@ templatic
+msgid "Parent category:"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:27
+#: monetize/custom_post_type/custom_post_type_lang.php:73
+#@ templatic
+msgid "Edit category"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:28
+#: monetize/custom_post_type/custom_post_type_lang.php:74
+#@ templatic
+msgid "Update category"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:29
+#: monetize/custom_post_type/custom_post_type_lang.php:75
+#@ templatic
+msgid "Add new category"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:30
+#: monetize/custom_post_type/custom_post_type_lang.php:76
+#@ templatic
+msgid "New category name"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:32
+#: monetize/custom_post_type/custom_post_type_lang.php:33
+#: monetize/custom_post_type/custom_post_type_lang.php:34
+#: monetize/custom_post_type/custom_post_type_lang.php:35
+#@ templatic
+msgid "Place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:36
+#@ templatic
+msgid "Popular place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:37
+#@ templatic
+msgid "All place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:38
+#@ templatic
+msgid "Parent place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:39
+#@ templatic
+msgid "Parent place tags:"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:40
+#@ templatic
+msgid "Edit place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:41
+#@ templatic
+msgid "Update place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:42
+#@ templatic
+msgid "Add new place tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:43
+#@ templatic
+msgid "New place tag name"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:56
+#@ templatic
+msgid "Add new event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:58
+#@ templatic
+msgid "Edit event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:59
+#@ templatic
+msgid "New event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:60
+#@ templatic
+msgid "View event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:61
+#@ templatic
+msgid "Search event"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:62
+#@ templatic
+msgid "No event found"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:63
+#@ templatic
+msgid "No event found in trash"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:65
+#: monetize/custom_post_type/custom_post_type_lang.php:66
+#@ templatic
+msgid "Event categories"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:78
+#: monetize/custom_post_type/custom_post_type_lang.php:79
+#: monetize/custom_post_type/custom_post_type_lang.php:80
+#: monetize/custom_post_type/custom_post_type_lang.php:81
+#@ templatic
+msgid "Event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:82
+#@ templatic
+msgid "Popular event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:83
+#@ templatic
+msgid "All event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:84
+#@ templatic
+msgid "Parent event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:85
+#@ templatic
+msgid "Parent event tags:"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:86
+#@ templatic
+msgid "Edit event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:87
+#@ templatic
+msgid "Update event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:88
+#@ templatic
+msgid "Add new event tags"
+msgstr ""
+
+#: monetize/custom_post_type/custom_post_type_lang.php:89
+#@ templatic
+msgid "New event tags name"
+msgstr ""
+
+#: monetize/db_table_creation.php:546
+#@ templatic
+msgid "Pay Cash On Arrival"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:11
+#@ templatic
+msgid "Send To Friend"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:15
+#@ templatic
+msgid "Friend&rsquo;s name"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:17
+#@ templatic
+msgid "Friend&rsquo;s email"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:19
+#@ templatic
+msgid "Your name"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:23
+#@ templatic
+msgid "About"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:25
+#@ templatic
+msgid "Comments"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:25
+#@ templatic
+msgid ""
+"Hello, \n"
+"\t\t\t\n"
+"I just stumbled upon this listing and thought you might like it. Just check it out."
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:52
+#@ templatic
+msgid ""
+"[SUBJECT-STR]You might be interested in [SUBJECT-END]\n"
+"\t\t<p>Dear [#$to_name#],</p>\n"
+"\t\t<p>[#$frnd_comments#]</p>\n"
+"\t\t<p>Link : <b>[#$post_title#]</b> </p>\n"
+"\t\t<p>From, [#$your_name#]</p>"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:174
+#@ templatic
+msgid "Please enter your friend's name"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:205
+#@ templatic
+msgid "Please enter your friend's valid email address"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:222
+#@ templatic
+msgid "Please Enter Your Name"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:255
+#: monetize/email_notification/popup_inquiry_frm.php:188
+#: monetize/email_notification/popup_owner_frm.php:176
+#@ templatic
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: monetize/email_notification/popup_frms.php:271
+#@ templatic
+msgid "Please Enter Comments"
+msgstr ""
+
+#: monetize/email_notification/popup_inquiry_frm.php:89
+#: monetize/email_notification/popup_inquiry_frm.php:91
+#@ templatic
+msgid "Email sent successfully"
+msgstr ""
+
+#: monetize/email_notification/popup_inquiry_frm.php:136
+#: monetize/email_notification/popup_owner_frm.php:130
+#@ templatic
+msgid "Please enter your full name"
+msgstr ""
+
+#: monetize/email_notification/popup_inquiry_frm.php:216
+#@ templatic
+msgid "Please enter subject line"
+msgstr ""
+
+#: monetize/email_notification/popup_inquiry_frm.php:245
+#@ templatic
+msgid "Please enter message"
+msgstr ""
+
+#: monetize/email_notification/popup_owner_frm.php:12
+#@ templatic
+msgid "Do you own this business?"
+msgstr ""
+
+#: monetize/email_notification/popup_owner_frm.php:23
+msgid "Your claim"
+msgstr ""
+
+#: monetize/email_notification/popup_owner_frm.php:23
+#@ templatic
+msgid ""
+"Hello,\n"
+"\t\t\t\n"
+"I would like to notify you that I am the owner of this listing. I would like to verify it&lsquo;s authenticity."
+msgstr ""
+
+#: monetize/email_notification/popup_owner_frm.php:63
+#@ templatic
+msgid ""
+"<p> is claim for this post</p>\n"
+"\t\t<p>Dear admin,</p>\n"
+"\t\t<p>[#$message#]</p>\n"
+"\t\t<p>Link : <b>[#$post_title#]</b> </p>\n"
+"\t\t<p>From, [#$your_name#]</p>"
+msgstr ""
+
+#: monetize/email_notification/popup_owner_frm.php:201
+#@ templatic
+msgid "Please enter your claim"
+msgstr ""
+
+#: monetize/event/event_category.php:59
+#: monetize/place/places_category.php:60
+#@ templatic
+msgid "Select category"
+msgstr ""
+
+#: monetize/event/paynow_event.php:346
+msgid "<p>Dear [#to_name#],</p><p>Event Submitted as below information. The email if for your knowledge of information submition.</p>[#information_details#]<br><p>[#site_name#]</p>"
+msgstr ""
+
+#: monetize/event/preview_event.php:51
+#: monetize/place/preview.php:11
+#@ templatic
+msgid "Price is Invalid,please select valid price"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:7
+#: monetize/place/single_page_checkout_insertuser.php:7
+#@ templatic
+msgid "Email for Contact Details is Empty. Please enter Email, your all informations will sent to your Email."
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:107
+#: monetize/general/single_page_checkout_insertuser.php:107
+#: monetize/place/single_page_checkout_insertuser.php:108
+#@ templatic
+msgid "Your login information:"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:108
+#: monetize/general/single_page_checkout_insertuser.php:108
+#: monetize/place/single_page_checkout_insertuser.php:109
+#@ templatic
+msgid "Username:"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:109
+#: monetize/general/single_page_checkout_insertuser.php:109
+#: monetize/place/single_page_checkout_insertuser.php:110
+#@ templatic
+msgid "Password:"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:110
+#: monetize/general/single_page_checkout_insertuser.php:110
+#: monetize/manage_settings/notification_options.php:30
+#: monetize/place/single_page_checkout_insertuser.php:111
+#@ templatic
+msgid "You can login from"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:110
+#: monetize/general/single_page_checkout_insertuser.php:110
+#: monetize/manage_settings/notification_options.php:30
+#: monetize/place/single_page_checkout_insertuser.php:111
+#@ templatic
+msgid "or the URL is"
+msgstr ""
+
+#: monetize/event/single_page_checkout_insertuser.php:111
+#: monetize/general/single_page_checkout_insertuser.php:111
+#: monetize/place/single_page_checkout_insertuser.php:112
+#@ templatic
+msgid "We hope you enjoy. Thanks!"
+msgstr ""
+
+#: monetize/event/submit_event.php:151
+#: monetize/place/submit_place.php:142
+msgid "Enter description for your listing."
+msgstr ""
+
+#: monetize/event/submit_event.php:790
+#: monetize/place/submit_place.php:771
+msgid "Please accept Term and Conditions"
+msgstr ""
+
+#: monetize/general/ipn_process.php:78
+#: monetize/general/ipn_process.php:108
+#: monetize/general/ipn_process_2co.php:61
+#: monetize/general/ipn_process_2co.php:97
+#@ templatic
+msgid "Place Listing Submitted and Payment Success Confirmation Email"
+msgstr ""
+
+#: monetize/general/multi_city_functions.php:166
+msgid "Enter City ID. In case of Multi city settings, The posts will display as per City ID."
+msgstr ""
+
+#: monetize/general/multi_city_functions.php:166
+msgid "The city Id Information as per theme design settings : "
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#@ templatic
+msgid "Cost :"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#@ templatic
+msgid "Validity :"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#: monetize/manage_settings/ajax_list_price_package.php:22
+#@ templatic
+msgid " Days"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#: monetize/manage_settings/ajax_list_price_package.php:24
+#@ templatic
+msgid " Months"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#: monetize/manage_settings/ajax_list_price_package.php:25
+#@ templatic
+msgid " Years"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#@ templatic
+msgid "Billing cycle :"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#@ templatic
+msgid "Months"
+msgstr ""
+
+#: monetize/general/post_function.php:305
+#@ templatic
+msgid "Years"
+msgstr ""
+
+#: monetize/general/submition_validation.php:89
+#: monetize/registration/registration_validation.php:99
+#@ templatic
+msgid "Please provide your email address"
+msgstr ""
+
+#: monetize/general/submition_validation.php:96
+#: monetize/registration/registration_validation.php:106
+#@ templatic
+msgid "Please provide valid email address"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:89
+#@ templatic
+msgid "Edit city details"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:89
+#@ templatic
+msgid "Add a city"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:91
+#@ templatic
+msgid "Back to &lsquo;Manage cities&rsquo; list"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:91
+#@ templatic
+msgid "&laquo; Back to &lsquo;Manage cities&rsquo; list"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:103
+#: monetize/manage_settings/admin_add_city.php:109
+#: monetize/manage_settings/admin_add_city.php:111
+#@ templatic
+msgid "Select country"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:120
+#@ templatic
+msgid "Select state/region"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:127
+#@ templatic
+msgid "Select state"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:137
+#: monetize/manage_settings/admin_manage_city.php:167
+#@ templatic
+msgid "City name"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:159
+#@ templatic
+msgid "City latitude"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:171
+#@ templatic
+msgid "City longitude"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:182
+#@ templatic
+msgid "Map scaling factor"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:187
+#@ templatic
+msgid "This is the zoom level of the map with 1 being minimum and 19 being maximum zoom. Recommended level: 13"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:202
+#@ templatic
+msgid "Select categories to display on homepage"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:223
+#@ templatic
+msgid "The categories you select here will be displayed in the bottom-right corner of this city&rsquo;s map on the homepage.<br/><b>Prerequisites:</b> <br/>1) &lsquo;Google Map V3 - Home page&rsquo; widget must be enabled.<br/> 2) The category should have atleast 1 place or event within it."
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:228
+#: monetize/manage_settings/admin_add_city.php:236
+#@ templatic
+msgid "Map zooming home-page"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:430
+#: monetize/manage_settings/tab_header.php:20
+#@ templatic
+msgid "Bulk upload"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:448
+#@ templatic
+msgid "Please select valid CSV file only for listing bulk upload."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:454
+#@ templatic
+msgid "Cannot move the bulk upload file to Temporary system folder"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:454
+#@ templatic
+msgid "Please check folder permission should be 0777."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:421
+#: monetize/manage_settings/admin_bulk_upload.php:496
+#@ templatic
+msgid "<p style=\"padding-bottom:5px;\">CSV uploaded successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:504
+#@ templatic
+msgid "File you are uploading is not valid."
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:111
+#: monetize/manage_settings/admin_category_icons.php:185
+#: monetize/manage_settings/admin_coupon.php:82
+#: monetize/manage_settings/admin_coupon.php:127
+#: monetize/manage_settings/admin_currency.php:31
+#: monetize/manage_settings/admin_currency.php:79
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:59
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:205
+#: monetize/manage_settings/admin_ip_settings.php:98
+#: monetize/manage_settings/admin_ip_settings.php:124
+#: monetize/manage_settings/admin_manage_city.php:221
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:128
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:422
+#: monetize/manage_settings/admin_manage_permission.php:30
+#: monetize/manage_settings/admin_manage_permission.php:56
+#: monetize/manage_settings/admin_notification.php:37
+#: monetize/manage_settings/admin_notification.php:109
+#: monetize/manage_settings/admin_paymethods_add.php:58
+#: monetize/manage_settings/admin_paymethods_add.php:127
+#: monetize/manage_settings/admin_price_add.php:93
+#: monetize/manage_settings/admin_price_add.php:281
+#@ templatic
+msgid "Save all changes"
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:113
+msgid "Manage category settings"
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:118
+msgid "Category settings saved successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:122
+#@ templatic
+msgid "Filter by: "
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:140
+#@ templatic
+msgid "Select the post-type to show categories associated with that post-type."
+msgstr ""
+
+#: monetize/manage_settings/admin_category_icons.php:152
+#: monetize/manage_settings/ajax_custom_taxonomy.php:16
+#@ templatic
+msgid "Icon"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:83
+#@ templatic
+msgid "&laquo; Back to manage coupons"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:96
+#@ templatic
+msgid "Coupon Code : "
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:101
+#@ templatic
+msgid "Enter Coupon code"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:106
+#@ templatic
+msgid "Discount Type : "
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:113
+#@ templatic
+msgid "Select Discount Type"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:118
+#@ templatic
+msgid "Discount amount : "
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:123
+#@ templatic
+msgid "Enter Discount Amount"
+msgstr ""
+
+#: monetize/manage_settings/admin_coupon.php:142
+#@ templatic
+msgid "Please Enter Coupon Code"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:34
+#@ templatic
+msgid "Back to Currency List"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:34
+#@ templatic
+msgid "&laquo; Back to Currency List"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:36
+#@ templatic
+msgid "Give the details about the currency you wish to use."
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:40
+#: monetize/manage_settings/admin_currency.php:45
+#@ templatic
+msgid "Currency Name"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:50
+#@ templatic
+msgid "Currency Code"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:55
+#@ templatic
+msgid "(USD, GBP, etc.)"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:60
+#@ templatic
+msgid "Currency Symbol"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:65
+#@ templatic
+msgid "$, &euro;, etc.)"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:75
+#@ templatic
+msgid "Example"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:75
+#@ templatic
+msgid "500"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:61
+#: monetize/manage_settings/admin_custom_usermeta_list.php:18
+#@ templatic
+msgid "Add a field for users&rsquo; profile"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:63
+#@ templatic
+msgid "Back to &lsquo;Manage user information fields&rsquo; list"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:63
+#@ templatic
+msgid "&laquo; Back to &lsquo;Manage user information fields&rsquo; list"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:78
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:192
+#@ templatic
+msgid "Field type: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:94
+#@ templatic
+msgid "Select the type of the custom field."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:99
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:216
+#@ templatic
+msgid "Option values: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:104
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:219
+#@ templatic
+msgid "Seperate multiple option values with a comma. eg. Yes, No"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:110
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:234
+#@ templatic
+msgid "Field name (Front-end): "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:115
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:239
+#@ templatic
+msgid "The name you provide here will be displayed as the field&rsquo;s name (label) in the front-end."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:120
+#@ templatic
+msgid "Field description: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:125
+#@ templatic
+msgid "Custom field description which will appear in the front-end as well as the backend."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:131
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:256
+#@ templatic
+msgid "HTML variable name: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:135
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:261
+#@ templatic
+msgid "The HTML variable name for the custom field. IMPORTANT: It should be a unique name."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:140
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:289
+#@ templatic
+msgid "Position (Display order): "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:145
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:294
+#@ templatic
+msgid "This is a numeric value that determines the position of the custom field in the front-end and the back-end. e.g. 5"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:151
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:299
+#@ templatic
+msgid "Active?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:159
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:307
+#@ templatic
+msgid "This setting activates/de-activates the custom field in the front-end and the back-end."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:165
+#@ templatic
+msgid "Compulsory :"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:173
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:321
+#@ templatic
+msgid "Specify whether or not this field is required to be filled in compulsarily by users."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:179
+#@ templatic
+msgid "Show on Registration page?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:187
+#@ templatic
+msgid "Specify whether or not this field be shown on the &lsquo;Registration page&rsquo;."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_edit.php:200
+#@ templatic
+msgid "Specify whether or not this field be shown on the &lsquo;user&rsquo;s profile page&rsquo;."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:17
+#@ templatic
+msgid "Manage user profile fields"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:18
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:130
+#@ templatic
+msgid "Add a new field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:21
+#@ templatic
+msgid "The fields you add/edit here will be displayed in user&rsquo;s dashboard and profile area. Using these fields, you can make users fill in custom information about themselves."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:29
+#@ templatic
+msgid "Custom user info field created successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:31
+#@ templatic
+msgid "Custom user info field updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:45
+#: monetize/manage_settings/admin_custom_usermeta_list.php:83
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:39
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:80
+#: monetize/manage_settings/admin_paymethods_list.php:40
+#@ templatic
+msgid "Active?"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:47
+#: monetize/manage_settings/admin_custom_usermeta_list.php:76
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:71
+#: monetize/manage_settings/admin_paymethods_list.php:41
+#@ templatic
+msgid "Display order"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:65
+#: monetize/manage_settings/admin_custom_usermeta_list.php:126
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:120
+#@ templatic
+msgid "Edit field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:66
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:56
+#@ templatic
+msgid "Delete Field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:66
+#: monetize/manage_settings/admin_custom_usermeta_list.php:127
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:56
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:121
+#@ templatic
+msgid "Delete field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:75
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:86
+#@ templatic
+msgid "HTML variable name"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:80
+#@ templatic
+msgid "Compulsary?"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:87
+#@ templatic
+msgid "Display on registration page?"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:88
+#@ templatic
+msgid "Display On Profile page?"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:93
+#@ templatic
+msgid "Theme default field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:104
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:98
+#@ templatic
+msgid "No custom fields available."
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:123
+#: monetize/manage_settings/admin_manage_city.php:216
+#: monetize/manage_settings/admin_manage_coupon.php:96
+#: monetize/manage_settings/admin_manage_currency.php:99
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:117
+#: monetize/manage_settings/admin_package_list.php:82
+#: monetize/manage_settings/admin_paymethods_list.php:88
+#@ templatic
+msgid "Legend"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:125
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:119
+#@ templatic
+msgid "Detail field"
+msgstr ""
+
+#: monetize/manage_settings/admin_custom_usermeta_list.php:125
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:119
+#@ templatic
+msgid "Field details"
+msgstr ""
+
+#: monetize/manage_settings/admin_ip_settings.php:93
+#@ templatic
+msgid "Record has been updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_ip_settings.php:100
+#@ templatic
+msgid "IP settings"
+msgstr ""
+
+#: monetize/manage_settings/admin_ip_settings.php:101
+#@ templatic
+msgid "The IP addresses you have blocked previously appear here. Once you remove them from the list below, they will be unblocked. Suspicious IP addresses should be added to the list below in order to prevent listings done from that IP."
+msgstr ""
+
+#: monetize/manage_settings/admin_ip_settings.php:103
+#@ templatic
+msgid "Blocked IP addresses: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:40
+#: monetize/manage_settings/tab_header.php:14
+#@ templatic
+msgid "Manage cities"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:41
+#@ templatic
+msgid "Add a new city"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:43
+#@ templatic
+msgid "Add, edit and manage city details here. To add a new city, click the &quot;Add a new city&quot; link above. <br/><b>Note:</b> You should select any one city as the default city to show its map on the homepage."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:52
+#@ templatic
+msgid "City added successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:99
+#@ templatic
+msgid "Display Default City to User"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:106
+#@ templatic
+msgid "Select City : "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:122
+#: monetize/manage_settings/admin_manage_city.php:208
+#@ templatic
+msgid "Current default city is: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:122
+#: monetize/manage_settings/admin_manage_city.php:133
+#: monetize/manage_settings/admin_manage_city.php:208
+#@ templatic
+msgid "Saving changes..."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:133
+#@ templatic
+msgid "Show a splash page to let user select a city when they land on your website"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:146
+#: monetize/manage_settings/admin_manage_city.php:168
+#: monetize/manage_settings/ajax_list_city.php:6
+#: monetize/manage_settings/ajax_list_city.php:29
+#@ templatic
+msgid "Country"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:161
+#: monetize/manage_settings/ajax_list_city.php:22
+#@ templatic
+msgid "Delete City"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:172
+#: monetize/manage_settings/ajax_list_city.php:33
+#@ templatic
+msgid "Latitude"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:173
+#: monetize/manage_settings/ajax_list_city.php:34
+#@ templatic
+msgid "Longitude"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:211
+#@ templatic
+msgid "Enable users to select a city when they land on your website"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:212
+#@ templatic
+msgid "(This won&rsquo;t change the &lsquo;Default city&rsquo; selection above, but will switch the homepage map to user-selected city)"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:218
+#@ templatic
+msgid "Edit city"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_city.php:219
+#@ templatic
+msgid "Delete city"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:24
+#@ templatic
+msgid "Enable coupon option on &lsquo;Add place/event&rsquo; page"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:27
+#@ templatic
+msgid "Coupon option updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:44
+#@ templatic
+msgid "Add New Coupon"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:46
+#@ templatic
+msgid "Add/Edit/Delete Coupon codes from here. Click on \"Add New Coupon\" to add a new coupon code"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:53
+#@ templatic
+msgid "Coupon created successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:66
+#@ templatic
+msgid "Discount type"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:67
+#@ templatic
+msgid "Discount amount"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:85
+#: monetize/manage_settings/admin_manage_coupon.php:98
+#@ templatic
+msgid "Edit Coupon"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_coupon.php:85
+#: monetize/manage_settings/admin_manage_coupon.php:99
+#@ templatic
+msgid "Delete Coupon"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:16
+#@ templatic
+msgid "Currency successfully set as default."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:21
+#@ templatic
+msgid "Set default currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:38
+#@ templatic
+msgid "Select Currency : "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:49
+#@ templatic
+msgid "Manage Currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:51
+#@ templatic
+msgid "Add New Currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:54
+#@ templatic
+msgid "Here you can edit,delete and manage currency values."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:60
+#@ templatic
+msgid "Currency inserted successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:62
+#@ templatic
+msgid "Currency updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:68
+#@ templatic
+msgid "Currency deleted successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:77
+#@ templatic
+msgid "Currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:78
+#@ templatic
+msgid "Code"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:79
+#@ templatic
+msgid "Symbol"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:92
+#: monetize/manage_settings/admin_manage_currency.php:101
+#@ templatic
+msgid "Edit Currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_currency.php:92
+#: monetize/manage_settings/admin_manage_currency.php:102
+#@ templatic
+msgid "Delete Currency"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:132
+#@ templatic
+msgid "Back to manage custom field list"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:132
+#@ templatic
+msgid "&laquo; Back to manage custom field list"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:143
+#@ templatic
+msgid "Show for post-type: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:159
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:332
+#: monetize/manage_settings/admin_price_add.php:139
+#@ templatic
+msgid "Both"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:162
+#@ templatic
+msgid "Select the post-type for which this field will be displayed."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:168
+#@ templatic
+msgid "Show for categories: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:186
+#@ templatic
+msgid "Select the categories for which this field will be displayed."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:207
+#@ templatic
+msgid "Geo Map"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:210
+#@ templatic
+msgid "Select the type of this custom field."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:228
+#@ templatic
+msgid "Custom field title which will appear in manage cutom fields area. "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:245
+#@ templatic
+msgid "Field label (for back-end): "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:250
+#@ templatic
+msgid "The field label for the custom field displayed in the back-end."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:267
+#@ templatic
+msgid "Description: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:272
+#@ templatic
+msgid "Describe this field in a few words. It will appear in beside the field."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:278
+#@ templatic
+msgid "Default value: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:283
+#@ templatic
+msgid "Enter the default value of the custom field."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:313
+#@ templatic
+msgid "Compulsory?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:326
+#@ templatic
+msgid "Display location: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:330
+#@ templatic
+msgid "Admin side (Backend side) "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:331
+#@ templatic
+msgid "User side (Frontend side)"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:335
+#@ templatic
+msgid "Specify whether this field will display in the front-end, back-end or both."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:340
+#@ templatic
+msgid "Is editable?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:348
+#@ templatic
+msgid "Specify whether or not this field is editable."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:353
+#@ templatic
+msgid "Is deletable? : "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:361
+#@ templatic
+msgid "Specify whether or not this field is deletable."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:365
+#@ templatic
+msgid "Is search?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:373
+#@ templatic
+msgid "Specify whether or not this field is in place in advanced search."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:377
+#@ templatic
+msgid "Show on detail page?: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:385
+#@ templatic
+msgid "Specify whether or not this field be shown on the &lsquo;Detail page&rsquo;"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:390
+#@ templatic
+msgid "Required field warning message: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:394
+#@ templatic
+msgid "This message is displayed if this field is mandatory and the user leaves it un-filled."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:398
+#@ templatic
+msgid "Validation type: "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:402
+#@ templatic
+msgid "Validation helps avoid invalid information entered by the user. Optional.<small><br/><br/><b>Require</b> means this field cannot be left blank.<br/><b>Phone No.</b> means this field requires numeric values in phone number format.<br/><b>Digit</b> means this field requires numeric values.<br/><b>Email</b> means this field is required in a valid email format.</small>"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:407
+#@ templatic
+msgid "CSS class : "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:410
+#@ templatic
+msgid "You might want to style this field differently. Mention a class name here and add its properties in your CSS files."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:414
+#@ templatic
+msgid "Extra parameter : "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_edit.php:417
+#@ templatic
+msgid "You can pass an extra parameter with this field (like maxlength, onchange etc.) to enhance functionality. Optional."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:15
+#@ templatic
+msgid "Manage custom fields"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:15
+#@ templatic
+msgid "Add custom field"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:15
+#@ templatic
+msgid "Add a  custom field"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:17
+#@ templatic
+msgid "Custom fields help you ask for additional information from listing adders. You can setup these fields on per category basis, which means a field meant for &lsquo;Food&rsquo; category won&rsquo;t appear in &lsquo;Art&rsquo; category. "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:23
+#@ templatic
+msgid "Custom field deleted successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:26
+#@ templatic
+msgid "Custom field created successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:28
+#@ templatic
+msgid "Custom field updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:36
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:65
+#@ templatic
+msgid "Field name"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:37
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:67
+#@ templatic
+msgid "Shown in post-type"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:54
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:55
+#@ templatic
+msgid "Edit Field"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:57
+#@ templatic
+msgid "This field is undeletable (locked). To unlock it, click 'Edit' and set 'Is deletable?' to 'Yes'"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:57
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:122
+#@ templatic
+msgid "Locked"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:66
+#@ templatic
+msgid "Category "
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:72
+#@ templatic
+msgid "Field type"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:73
+#@ templatic
+msgid "Default value"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:78
+#@ templatic
+msgid "Shown on Details page?"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:79
+#@ templatic
+msgid "Field name (Front-end)"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:85
+#@ templatic
+msgid "Shown on &lsquo;Add place&rsquo; page?"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:88
+#@ templatic
+msgid "CSS class"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_custom_fields_list.php:122
+#@ templatic
+msgid "This field is undeletable (locked). To unlock it, click &lsquo;Edit&rsquo; and set &lsquo;Is deletable?&rsquo; to &lsquo;Yes&rsquo;"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_permission.php:16
+#: monetize/manage_settings/tab_header.php:10
+#@ templatic
+msgid "Manage permissions"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_permission.php:17
+#@ templatic
+msgid "Check mark the group of users to disable their access to the back-end of this site.  <b>Administrators</b> are allowed access at all times."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_permission.php:21
+#@ templatic
+msgid "Permissions updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_permission.php:25
+#@ templatic
+msgid "Please select atleast one role"
+msgstr ""
+
+#: monetize/manage_settings/admin_manage_permission.php:33
+msgid "Disable backend access for: "
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:39
+#@ templatic
+msgid "Notification e-mails are sent to administrators and users while relevant messages are displayed on the site at different times such as when a new user registers or a payment process completes successfully. You may customize these emails and messages here."
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:42
+#@ templatic
+msgid "Notifications updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:46
+#@ templatic
+msgid "Email setup"
+msgstr ""
+
+#: monetize/manage_settings/admin_notification.php:80
+#@ templatic
+msgid "Messages setup"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:52
+#@ templatic
+msgid "Manage price packages"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:53
+#@ templatic
+msgid "Add new price"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:53
+#@ templatic
+msgid "Add new price package"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:55
+#@ templatic
+msgid "Add, edit and manage price packages from here. To create a new package, click &lsquo;Add new price package&rsquo; link above."
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:60
+#@ templatic
+msgid "Price package added successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:62
+#@ templatic
+msgid "Price package has been updated successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:68
+#: monetize/manage_settings/ajax_manage_settings.php:18
+#@ templatic
+msgid "Price package has been deleted successfully."
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:84
+#@ templatic
+msgid "View price package details"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:85
+#: monetize/manage_settings/ajax_list_price_package.php:30
+#@ templatic
+msgid "Edit price package"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:30
+#@ templatic
+msgid "Edit price"
+msgstr ""
+
+#: monetize/manage_settings/admin_package_list.php:86
+#: monetize/manage_settings/ajax_list_price_package.php:30
+#@ templatic
+msgid "Delete price package"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:30
+#@ templatic
+msgid "Delete price"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:61
+#@ templatic
+msgid "Back to Payment Options List"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:61
+#@ templatic
+msgid "&laquo; Back to Payment Options List"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:63
+#@ templatic
+msgid "Here you can edit the payment option settings. Double check the values you enter here to avoid payment related problems."
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:72
+#@ templatic
+msgid "Payment method name"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:95
+#@ templatic
+msgid "Position (Display order)"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_add.php:100
+#@ templatic
+msgid "This is a numeric value that determines the position of this payment option in the list. e.g. 5"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:27
+#@ templatic
+msgid "Manage payment options"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:29
+#@ templatic
+msgid "Activate/deactivate and manage payment gateway options here."
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:39
+#: monetize/manage_settings/admin_transaction_report.php:109
+#: monetize/manage_settings/admin_transaction_report.php:128
+#@ templatic
+msgid "Payment method"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:71
+#@ templatic
+msgid "Click to activate"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:71
+#: monetize/manage_settings/admin_paymethods_list.php:91
+#@ templatic
+msgid "Inactive payment option"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:90
+#@ templatic
+msgid "Active payment option"
+msgstr ""
+
+#: monetize/manage_settings/admin_paymethods_list.php:92
+#@ templatic
+msgid "Edit payment option"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:96
+#@ templatic
+msgid "Back to manage price list"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:188
+#: monetize/manage_settings/admin_price_add.php:232
+#: monetize/manage_settings/function_manage_settings.php:393
+#@ templatic
+msgid "days"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:189
+#: monetize/manage_settings/admin_price_add.php:233
+#@ templatic
+msgid "months"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:190
+#: monetize/manage_settings/admin_price_add.php:234
+#@ templatic
+msgid "years"
+msgstr ""
+
+#: monetize/manage_settings/admin_price_add.php:254
+#@ templatic
+msgid "Deactive"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:52
+#@ templatic
+msgid "Transaction Report"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:53
+#@ templatic
+msgid "Export To CSV"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:57
+#@ templatic
+msgid "Search by transaction ID"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:59
+#@ templatic
+msgid "Payment Type"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:75
+#@ templatic
+msgid "Select Payment Type"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:84
+#@ templatic
+msgid "Name/Email"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:89
+#@ templatic
+msgid "Payment Transaction ID"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:91
+msgid "Reset"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:121
+#@ templatic
+msgid "View details"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:129
+#@ templatic
+msgid "Pay Date"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:132
+#@ templatic
+msgid "Billing name"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:133
+#@ templatic
+msgid "Billing address"
+msgstr ""
+
+#: monetize/manage_settings/admin_transaction_report.php:159
+msgid "No Transaction Available"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_city.php:30
+#@ templatic
+msgid "Zone"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_city.php:41
+#@ templatic
+msgid "Categories ID(s)"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:28
+#@ templatic
+msgid "<span class='active' id='#dashboard_right_now' >Active</span>"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:28
+#@ templatic
+msgid "<span class='deactive' id='#dashboard_right_now' >Deactive</span>"
+msgstr ""
+
+#: monetize/manage_settings/ajax_list_price_package.php:71
+#@ templatic
+msgid "Featured :"
+msgstr ""
+
+#: monetize/manage_settings/ajax_set_defalut_city.php:48
+#@ templatic
+msgid "City has been deleted successfully."
+msgstr ""
+
+#: monetize/manage_settings/export_transaction.php:9
+#@ templatic
+msgid "Title,Pay Date,Billing name,Billing address,Pay Method,Amount\\r\n"
+msgstr ""
+
+#: monetize/manage_settings/export_transaction.php:25
+#@ templatic
+msgid "No record available"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:36
+#@ templatic
+msgid "A new version of Manage Global settings Module is available"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:37
+#@ templatic
+msgid "This updater will collect a file from the templatic.com server. It will download and extract the files to your current theme&prime;s functions folder."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:38
+#@ templatic
+msgid "We recommend backing up your theme files before updating. Only upgrade related module files if necessary."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:39
+#@ templatic
+msgid "If you are facing any problem in auto updating the framework, then please download the latest version of the theme from members area and then just overwrite the "
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:40
+#@ templatic
+msgid "Your version:"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:41
+#@ templatic
+msgid "Current Version:"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:172
+#@ templatic
+msgid "name"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:344
+#@ templatic
+msgid "Invalid coupon"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:393
+#@ templatic
+msgid "in"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:393
+#@ templatic
+msgid "for"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:670
+#@ templatic
+msgid "Name of the recipient."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:671
+#@ templatic
+msgid "Site name as you provided in General Settings"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:672
+#@ templatic
+msgid "Site's login page URL"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:673
+#@ templatic
+msgid "Recipient's login ID"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:674
+#@ templatic
+msgid "Recepient's password"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:675
+#@ templatic
+msgid "Site login page link"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:676
+#@ templatic
+msgid "Date of post"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:677
+#@ templatic
+msgid "Information details of place/event."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:678
+#@ templatic
+msgid "Transaction details of place/event."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:679
+#@ templatic
+msgid "Subject for the email to the recipient."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:680
+#@ templatic
+msgid "Comment for the email to the recipient."
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:681
+#@ templatic
+msgid "Sender's name"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:682
+#@ templatic
+msgid "URL of the detail page"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:683
+#@ templatic
+msgid "Payable amount"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:684
+#@ templatic
+msgid "Bank name"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:685
+#@ templatic
+msgid "Account number"
+msgstr ""
+
+#: monetize/manage_settings/function_manage_settings.php:686
+#@ templatic
+msgid "Submission ID"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:5
+#@ templatic
+msgid "Successful post submission email to the administrator"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:6
+#@ templatic
+msgid "Post submitted successfully Acknowledgment"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:7
+#@ templatic
+msgid "You Submitted below information. This email is just for your knowledge"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:7
+#: monetize/manage_settings/notification_options.php:14
+#@ templatic
+msgid "We hope you enjoy. Thanks"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:12
+#@ templatic
+msgid "Payment success email to client"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:19
+#@ templatic
+msgid "Payment success email to administrator "
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:21
+#@ templatic
+msgid "We hope you enjoy . Thanks"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:26
+#@ templatic
+msgid "Registration success email"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:27
+#@ templatic
+msgid "Log In Details"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:29
+#@ templatic
+msgid "You can log in  with the following information"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:30
+#@ templatic
+msgid "We hope you enjoy, Thanks"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:36
+#@ templatic
+msgid "Send inquiry email"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:37
+#@ templatic
+msgid "Inquiry email"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:38
+#@ templatic
+msgid "Here is an inquiry for"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:38
+#@ templatic
+msgid "Below is the message"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:38
+#@ templatic
+msgid "Thank you"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:48
+#@ templatic
+msgid "Successful post submission notification"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:49
+#@ templatic
+msgid "Thank you, your information has been successfully received"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:49
+#: monetize/manage_settings/notification_options.php:55
+#@ templatic
+msgid "View your submitted information"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:50
+#: monetize/manage_settings/notification_options.php:62
+#@ templatic
+msgid "Thank you for visiting us at"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:54
+#@ templatic
+msgid "Payment successful notification"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:55
+#@ templatic
+msgid "Your payment received successfully and your information is published"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:56
+#@ templatic
+msgid "Thank you for becoming a member at"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:60
+#@ templatic
+msgid "Payment canceled notification"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:61
+#@ templatic
+msgid "Your listing is cancelled. Sorry for cancellation"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:66
+#@ templatic
+msgid "Payment via bank transfer success notification"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:67
+#@ templatic
+msgid "Thank you, your request has been received successfully"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "To publish the property please transfer the amount of"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "at our bank with the following information"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "Bank Name"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "Account Number"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "Please include the ID as reference"
+msgstr ""
+
+#: monetize/manage_settings/notification_options.php:68
+#@ templatic
+msgid "View your submitted listing"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:9
+#@ templatic
+msgid "E-mail notifications &amp; messages"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:11
+#@ templatic
+msgid "Custom fields"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:12
+#@ templatic
+msgid "User profile fields"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:13
+#@ templatic
+msgid "Category settings"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:15
+#@ templatic
+msgid "Manage price package"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:16
+#@ templatic
+msgid "Manage currency"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:17
+#@ templatic
+msgid "Payment options"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:18
+#@ templatic
+msgid "Transaction report"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:19
+#@ templatic
+msgid "Manage coupons"
+msgstr ""
+
+#: monetize/manage_settings/tab_header.php:21
+#@ templatic
+msgid "Manage IP"
+msgstr ""
+
+#: monetize/place/paynow.php:351
+msgid "New place listing of ID:#"
+msgstr ""
+
+#: monetize/place/paynow.php:355
+msgid ""
+"<p>Dear [#to_name#],</p>\n"
+"\t\t\t\t<p>Listing Submitted as below information. The email if for your knowledge of information submition.</p>\n"
+"\t\t\t\t[#information_details#]\n"
+"\t\t\t\t<br>\n"
+"\t\t\t\t<p>[#site_name#]</p>"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:2
+#@ templatic
+msgid "Edit Account"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:3
+#: monetize/registration/lang_reg.php:9
+#@ templatic
+msgid "Password changed successfully."
+msgstr ""
+
+#: monetize/registration/lang_reg.php:4
+#@ templatic
+msgid "Your information is updated successfully."
+msgstr ""
+
+#: monetize/registration/lang_reg.php:6
+#@ templatic
+msgid "New Password"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:7
+#@ templatic
+msgid "Confirm New Password"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:12
+#@ templatic
+msgid "User Name"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:17
+#@ templatic
+msgid "About you"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:20
+#@ templatic
+msgid "Your Facebook URL"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:21
+#@ templatic
+msgid "Your Twitter URL"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:22
+#@ templatic
+msgid "(Note: A password will be E-mailed to you for future reference.)"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:23
+#@ templatic
+msgid "Your Website"
+msgstr ""
+
+#: monetize/registration/lang_reg.php:24
+#@ templatic
+msgid "Provide brief information about yourself"
+msgstr ""
+
+#: monetize/registration/login_form.php:78
+#@ templatic
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr ""
+
+#: monetize/registration/profile.php:179
+#@ templatic
+msgid "There is some problem in uploading file"
+msgstr ""
+
+#: monetize/registration/profile.php:321
+#@ templatic
+msgid "Upload your Photo :"
+msgstr ""
+
+#: monetize/registration/registration.php:76
+#@ templatic
+msgid "<p><b>Your login Information :</b></p>"
+msgstr ""
+
+#: monetize/registration/registration_language.php:32
+#@ templatic
+msgid "Your registration is successfuly completed, Now please go to your email id to activate account."
+msgstr ""
+
+#: monetize/registration/registration_language.php:33
+#@ templatic
+msgid "Your account has been activated successfully, your login details has been sent to your email id."
+msgstr ""
+
+#: monetize/registration/registration_language.php:44
+#@ templatic
+msgid "Sign in using social profile"
+msgstr ""
+
+#: monetize/registration/registration_validation.php:17
+#@ templatic
+msgid "text"
+msgstr ""
+
+#: monetize/registration/registration_validation.php:28
+#, php-format
+#@ templatic
+msgid "Please select %s"
+msgstr ""
+
+#: monetize/registration/registration_validation.php:30
+#, php-format
+#@ templatic
+msgid "Please Enter %s"
+msgstr ""
+
+#: search.php:14
+#@ templatic
+msgid "Browsing Day"
+msgstr ""
+
+#: search.php:23
+#@ templatic
+msgid "You searched for:"
+msgstr ""
+
+#: single-blog.php:72
+#@ templatic
+msgid "By"
+msgstr ""
+
+#: single-event.php:52
+#: single-place.php:53
+#@ templatic
+msgid "Comments closed"
+msgstr ""
+
+#: taxonomy-eventcategory.php:63
+msgid "Events"
+msgstr ""
+
+#: taxonomy-eventcategory.php:68
+msgid "Upcoming"
+msgstr ""
+
+#: taxonomy-eventcategory.php:69
+msgid "Past"
+msgstr ""
+
+#: taxonomy-eventcategory.php:229
+#: taxonomy-eventcategory.php:242
+#@ templatic
+msgid "Date :"
+msgstr ""
+
+#: taxonomy-eventcategory.php:229
+#: taxonomy-eventcategory.php:242
+#@ templatic
+msgid "Timing :"
+msgstr ""
+
+#: tpl_archives.php:64
+msgid "M j, Y"
+msgstr ""
+
+#: tpl_contact.php:169
+#@ templatic
+msgid "Please enter your name"
+msgstr ""
+
+#: tpl_contact.php:204
+#@ templatic
+msgid "Please enter valid email address"
+msgstr ""
+
+#: tpl_contact.php:223
+#@ templatic
+msgid "Please enter a subject"
+msgstr ""
+
+#: tpl_contact.php:240
+#@ templatic
+msgid "Please enter your message"
+msgstr ""
+
+#: author.php:68
+#@ templatic
+msgid "Submissions"
+msgstr ""
+
+#: library/functions/custom_functions.php:1156
+#@ templatic
+msgid "Listing expiration Notification"
+msgstr ""
+
+#: monetize/email_notification/popup_inquiry_frm.php:62
+#@ templatic
+msgid ""
+"[SUBJECT-STR]You might be interested in [SUBJECT-END]\n"
+"\t\t<p>Dear [#to_name#],</p>\n"
+"\t\t<p>[#frnd_comments#]</p>\n"
+"\t\t<p>Link : <b>[#post_title#]</b> </p>\n"
+"\t\t<p>From, [#your_name#]</p>"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:191
+#@ templatic
+msgid "Map display"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:194
+#@ templatic
+msgid "As per zoom level"
+msgstr ""
+
+#: monetize/manage_settings/admin_add_city.php:196
+#@ templatic
+msgid "Fit all available listings"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:435
+#@ templatic
+msgid "You can import listings from another GeoPlaces site in CSV format to this site. To export listings from an older version of this theme, i.e. GeoPlaces v3 or older, you will have to <a href=\"http://templatic.com/theme-support/export-listings-geoplaces3-to-geoplaces4\">follow this tutorial</a> to enable the export feature."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:438
+#@ templatic
+msgid "<b>READ THIS FIRST:</b> Bulk upload feature is currently in <font color=\"#ff0000\">beta</font>. We recommend you setup a dummy site to test out this feature. Using this feature with live data is not recommended as yet."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:460
+#@ templatic
+msgid "File you are uploading is not valid. First column should be \"Post Title\"."
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:465
+#@ templatic
+msgid "Import"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:467
+#@ templatic
+msgid "Import place, events and blog posts"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:491
+#@ templatic
+msgid "Import city data from GeoPlaces (older versions)"
+msgstr ""
+
+#: monetize/manage_settings/admin_bulk_upload.php:521
+#@ templatic
+msgid "Export"
+msgstr ""
+
+#: language.php:385
+msgid "Specify whether users will be automatically charged after the billing period gets over.(<strong>NOTE: Only work for paypal</strong>)"
+msgstr ""
+
+#: monetize/manage_settings/admin_currency.php:70
+#@ templatic
+msgid "Currency Symbol Position"
+msgstr ""
+

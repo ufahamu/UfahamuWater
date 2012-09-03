@@ -1,0 +1,40 @@
+#countycenterpopulati {
+   marker-fill:#FFCC00;
+   marker-line-color:white;
+   marker-line-width:2;
+   marker-opacity:0.8;
+   marker-line-opacity:1;
+   marker-placement:point;
+   marker-type:ellipse;
+   marker-allow-overlap:true;
+}
+#countycenterpopulati [Total<=3138369] {
+   marker-width:19
+}
+#countycenterpopulati [Total<=1591533] {
+   marker-width:17.333333333333336
+}
+#countycenterpopulati [Total<=1098584] {
+   marker-width:15.666666666666668
+}
+#countycenterpopulati [Total<=963794] {
+   marker-width:14
+}
+#countycenterpopulati [Total<=891835] {
+   marker-width:12.333333333333334
+}
+#countycenterpopulati [Total<=818757] {
+   marker-width:10.666666666666668
+}
+#countycenterpopulati [Total<=661941] {
+   marker-width:9
+}
+#county_center_popula [Total<=555561] {
+   marker-width:7.333333333333334
+}
+#county_center_popula [Total<=486975] {
+   marker-width:5.666666666666667
+}
+#countycenterpopulati [Total<=240075] {
+   marker-width:4
+}

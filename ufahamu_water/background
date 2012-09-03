@@ -1,0 +1,167 @@
+/*
+autopilot 0.0.1
+[{"id":"Map","background-color":"#b8dee6"},{"id":"countries","polygon-fill":["#fff"]},{"id":"10mlakes","_line-delta":1.1,"line-width":1,"polygon-fill":["#d1d1d1"],"line-color":"#ffffff"},{"id":"typhoid","_marker-delta":1.2,"marker-width":[2,10],"marker-fill":["#48c6c4"],"marker-line-width":[0,10]},{"id":"typhoidmap","_marker-delta":1.1,"marker-width":[3,10],"marker-fill":["#2fad9d"],"marker-line-width":[0,10]},{"id":"countycenterpopulati","_marker-delta":1.2,"marker-fill":["#2d7faa"]}]
+
+This stylesheet is managed by autopilot. Any changes will
+be overwritten unless you disable autopilot for this project.
+*/
+
+Map { background-color: #b8dee6; }
+
+#countries { ::polygon { polygon-fill: #fff; line-color:#ccc; } }
+
+#10mlakes {
+  ::polygon { polygon-fill: #d1d1d1; }
+  ::line {
+    [zoom=0] { line-width: 1*1.00; }
+    [zoom=1] { line-width: 1*1.10; }
+    [zoom=2] { line-width: 1*1.21; }
+    [zoom=3] { line-width: 1*1.33; }
+    [zoom=4] { line-width: 1*1.46; }
+    [zoom=5] { line-width: 1*1.61; }
+    [zoom=6] { line-width: 1*1.77; }
+    [zoom=7] { line-width: 1*1.95; }
+    [zoom=8] { line-width: 1*2.14; }
+    [zoom=9] { line-width: 1*2.36; }
+    [zoom=10] { line-width: 1*2.59; }
+    [zoom=11] { line-width: 1*2.85; }
+    [zoom=12] { line-width: 1*3.14; }
+    [zoom=13] { line-width: 1*3.45; }
+    [zoom=14] { line-width: 1*3.80; }
+    [zoom=15] { line-width: 1*4.18; }
+    [zoom=16] { line-width: 1*4.59; }
+    [zoom=17] { line-width: 1*5.05; }
+    [zoom=18] { line-width: 1*5.56; }
+    [zoom=19] { line-width: 1*6.12; }
+    [zoom=20] { line-width: 1*6.73; }
+    [zoom=21] { line-width: 1*7.40; }
+    [zoom=22] { line-width: 1*8.14; }
+    line-color: #ffffff;
+  }
+}
+
+
+
+
+
+
+/***********************************************************************
+
+This file is responsible for assigning colors to each district. Color
+assignment is mostly manual. Not taking advantage of Natural Earth's
+'MAP_COLOR' field because it did not exist when I started, and at any
+rate I want a smaller palette :)
+
+***********************************************************************/
+
+@white: #F0F8FF; 
+@red: #fdaf6b;
+@orange: #fdc663;
+@yellow: #fae364;
+@green: #d3e46f;
+@turquoise: #aadb78;
+@blue: #a3cec5;
+@purple: #ceb5cf;
+@pink: #f3c1d3;
+@f00: #f00;
+@line: #ccc;
+
+
+/* BOUNDARIES */
+#kedistrictboundaries::land-glow-inner[zoom>=0] { 
+  line-color:@line;
+  line-opacity:0.8;
+  line-join:round;
+  [zoom=0] { line-width: 1*0.00; }
+    [zoom=1] { line-width: 1*0.10; }
+    [zoom=2] { line-width: 1*0.21; }
+    [zoom=3] { line-width: 1*0.33; }
+    [zoom=4] { line-width: 1*0.46; }
+    [zoom=5] { line-width: 1*0.61; }
+    [zoom=6] { line-width: 1*0.77; }
+    [zoom>7] { line-width: 1*0.95; }
+}
+
+#kedistrictboundaries::land-glow-outer[zoom>1] { 
+  line-color:@line;
+  line-width:1;
+  line-opacity:0.1;
+  line-join:round;
+}
+
+#kedistrictboundaries::fill[zoom>=0] {
+  [DISTNAME='BARINGO'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='BOMET'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='BONDO'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='BUNGOMA'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='BURET'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='BUTERE/MUMIAS'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='CENTRAL KISII'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='EMBU'] { polygon-fill:@green; polygon-opacity:0.4;  }
+  [DISTNAME='GARISSA'] { polygon-fill:@green; polygon-opacity:0.4;  }
+  [DISTNAME='GUCHA'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='HOMA BAY'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='ISIOLO'] { polygon-fill:@white; polygon-opacity:0.4;  }
+  [DISTNAME='KAJIADO'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='KAKAMEGA'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='KEIYO'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='KERICHO'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='KIAMBU'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='KILIFI'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='KIRINYAGA'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='KISUMU'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='KITUI'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='KOIBATEK'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='KURIA'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='KWALE'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='LAIKIPAI'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='LAMU'] { polygon-fill:@green; polygon-opacity:0.4;  }
+  [DISTNAME='LUGARI'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='MACHAKOS'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='MAKUENI'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='MALINDI'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='MANDERA'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='MARAGUA'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='MARSABIT'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='MBEERE'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='MERU CENTRAL'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='MERU NORTH'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='MERU SOUTH'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='MIGORI'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='MOMBASA'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='MOYALE'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='MT ELGON'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='MURANGA'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='MWINGI'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='NAIROBI'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='NAKURU'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='NANDI'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='NAROK'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='NYAMIRA'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='NYANDARUA'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='NYANDO'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='NYERI'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='RACHUONYO'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='SAMBURU'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='SIAYA'] { polygon-fill:@green; polygon-opacity:0.4;  }
+  [DISTNAME='SUBA'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='TAITA TAVETA'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='TANA RIVER'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='TESO'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='THARAKA'] { polygon-fill:@red; polygon-opacity:0.4;  }
+  [DISTNAME='THIKA'] { polygon-fill:@turquoise; polygon-opacity:0.4;  }
+  [DISTNAME='TRANS MARA'] { polygon-fill:@pink; polygon-opacity:0.4;  }
+  [DISTNAME='TRANS NZOIA'] { polygon-fill:@orange; polygon-opacity:0.4;  }
+  [DISTNAME='TURKANA'] { polygon-fill:@purple; polygon-opacity:0.4;  }
+  [DISTNAME='UASIN GISHU'] { polygon-fill:@yellow; polygon-opacity:0.4;  }
+  [DISTNAME='VIHIGA'] { polygon-fill:@blue; polygon-opacity:0.4;  }
+  [DISTNAME='WAJIR'] { polygon-fill:@f00; polygon-opacity:0.1;  }
+  [DISTNAME='WEST POKOT'] { polygon-fill:@green; polygon-opacity:0.4;  }  
+}
+
+
+
+
+
+
+

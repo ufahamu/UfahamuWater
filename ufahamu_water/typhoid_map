@@ -1,0 +1,40 @@
+#typhoidmap {
+   marker-fill:#f00;
+   marker-line-color:white;
+   marker-line-width:3;
+   marker-opacity:0.5;
+   marker-line-opacity:1;
+   marker-placement:point;
+   marker-type:ellipse;
+   marker-allow-overlap:true;
+}
+#typhoidmap [typhoid<=0.039291376] {
+   marker-width:13
+}
+#typhoidmap [typhoid<=0.021179583] {
+   marker-width:12
+}
+#typhoidmap [typhoid<=0.017504586] {
+   marker-width:11
+}
+#typhoidmap [typhoid<=0.014360405] {
+   marker-width:10
+}
+#typhoidmap [typhoid<=0.012339653] {
+   marker-width:9
+}
+#typhoidmap [typhoid<=0.011612291] {
+   marker-width:8
+}
+#typhoidmap [typhoid<=0.008990041] {
+   marker-width:7
+}
+#typhoidmap [typhoid<=0.005369067] {
+   marker-width:6
+}
+#typhoidmap [typhoid<=0.003580672] {
+   marker-width:5
+}
+#typhoidmap [typhoid<=0.0001] {
+   marker-width:4
+}

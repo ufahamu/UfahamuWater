@@ -1,0 +1,55 @@
+/***********************************************************************
+
+This file is responsible for assigning colors to each county. Color
+assignment is mostly manual. Not taking advantage of Natural Earth's
+'MAP_COLOR' field because it did not exist when I started, and at any
+rate I want a smaller palette :)
+
+***********************************************************************/
+
+@white: #F0F8FF; 
+@red: #fdaf6b;
+@orange: #fdc663;
+@yellow: #fae364;
+@green: #d3e46f;
+@turquoise: #aadb78;
+@blue: #a3cec5;
+@purple: #ceb5cf;
+@pink: #f3c1d3;
+@f00: #f00;
+@line:#ccc;
+
+#counties::land-glow-inner[zoom>=0] { 
+  line-color:@line;
+  line-opacity:0.8;
+  line-join:round;
+  [zoom=0] { line-width:1.2; }
+  [zoom=1] { line-width:1.6; }
+  [zoom=2] { line-width:2; }
+  [zoom>2] { line-width:2.4; }
+}
+
+#counties::land-glow-outer[zoom>1] { 
+  line-color:@line;
+  line-width:5;
+  line-opacity:0.1;
+  line-join:round;
+}
+
+#counties {
+  [county='Baringo'] { marker-fill:@purple; }
+  [county='Bomet'] { marker-fill:@red; }
+  [county='Bungoma'] { polygon-fill:@yellow; }
+  [county='Busia'] { polygon-fill:@blue; }
+  [county='Elgeyo Marakwet'] { polygon-fill:@purple; }
+  [county='Embu'] { polygon-fill:@red; }
+  [county='Garissa'] { polygon-fill:@purple; }
+  [county='Homa Bay'] { polygon-fill:@green; }
+  [county='Isiolo'] { polygon-fill:@green; }
+  [county='Kajiado'] { polygon-fill:@pink; }
+  [county='Kakamega'] { polygon-fill:@yellow; }
+  [county='Kericho'] { polygon-fill:@white; }
+  [county='Kiambu'] { polygon-fill:@purple; }
+  [county='Kilifi'] { polygon-fill:@yellow; }
+  
+}
